@@ -1,0 +1,1646 @@
+date,l1_category,l1_category_id,l2_category,l2_category_id,store_id,variant_id,variant_name,group_id,selling_price,mrp,in_stock,inventory,is_sponsored,image_url,brand_id,brand
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,524535,Let's Try Namkeen Combo,744169,₹81,₹90,True,4,True,https://cdn.grofers.com/da/cms-assets/cms/product/46ee6575-38de-49b6-98d4-53d9a158a564.png,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,17149,Haldiram's Nagpur Sev Bhujia,1912259,₹120,₹120,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/a8e482cc-5733-41b8-a785-1c10d3fb4225.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,36014,Haldiram's Nagpur Khatta Meetha Mixture Namkeen,1913955,₹95,₹95,True,19,False,https://cdn.grofers.com/da/cms-assets/cms/product/cb79cb11-b855-44fa-87e3-6da77d0bcfa8.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,372141,Chheda's Nylon Sev Bhujia,1915635,₹55,₹55,True,16,False,https://cdn.grofers.com/da/cms-assets/cms/product/3c6982c6-97a3-460a-bc50-23188fa1f615.png,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,495431,Let's Try Lite Multigrain Mixture Namkeen,1914594,₹108,₹120,True,11,True,https://cdn.grofers.com/da/cms-assets/cms/product/5f7cfecb-5add-4369-97d5-f155f434b882.png,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,52634,Haldiram's Nagpur Mixture Namkeen,1914035,₹88,₹88,True,18,False,https://cdn.grofers.com/da/cms-assets/cms/product/0984eda2-299a-4e53-acc3-fe4458d82664.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,477180,Veerabhadra Mixture Namkeen,828857,₹69,₹70,True,11,False,https://cdn.grofers.com/da/cms-assets/cms/product/0588a956-461e-4f63-9425-0faca1060c83.png,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,19250,Haldiram's Nagpur Aloo Bhujia,1912498,₹235,₹235,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/1231b3b4-8364-423b-882d-e4751a5d0802.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,251510,Haldiram's Nagpur Lite Chivda Namkeen,626857,₹45,₹45,True,8,False,https://cdn.grofers.com/da/cms-assets/cms/product/f9716bd7-f5af-477d-9dfd-dc17659662c1.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,372138,Chheda's Farsan Mixture Namkeen,1913357,₹55,₹55,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/3f3a79d5-b7d4-4ef4-b0fa-68ef69149144.png,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,524534,Haldiram's Nagpur Fine Bhel Sev Bhujia,856421,₹36,₹60,True,10,False,https://cdn.grofers.com/da/cms-assets/cms/product/f8ad7a86-12d8-4602-baa6-2f4eb9228bc7.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,375176,Town Bus Madras Mixture Namkeen,1920931,₹57,₹65,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/ff43a435-2b23-47bf-96a3-28a32178ba7d.png,N/A,Town Bus
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,61365,Haldiram's Nagpur Fatafat Bhelpuri,1913266,₹45,₹45,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/aa77fb0a-8a91-4310-a73f-d731185973c6.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,56281,Haldiram's Nagpur Panchratan Mixture Namkeen,1914841,₹90,₹90,True,14,False,https://cdn.grofers.com/da/cms-assets/cms/product/d587d23f-38fd-43b1-ba4f-53f2fade851a.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,112620,Balaji Ratlami Sev Bhujia,2169960,₹40,₹40,True,12,False,https://cdn.grofers.com/da/cms-assets/cms/product/f97a838a-6313-495e-b517-a2bc62291960.png,N/A,Balaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,62119,Bikaji Bhujia,1912957,₹114,₹122,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/2b5d0954-c585-4c1c-869b-be28a9054376.png,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,56271,Haldiram's Nagpur Bhelpuri / Bhelpuri,1915270,₹70,₹70,True,11,False,https://cdn.grofers.com/da/cms-assets/cms/product/96ba3609-f869-4452-aa38-5fb9f9c055ba.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,41397,Haldiram's Nagpur Moong Dal Namkeen,1912125,₹60,₹60,True,12,False,https://cdn.grofers.com/da/cms-assets/cms/product/efa12f70-1cfd-4b8f-ba33-a88233324421.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,524899,Bikaji Mobile Chowpati Bhelpuri,828883,₹37,₹49,True,32,False,https://cdn.grofers.com/da/cms-assets/cms/product/8b982042-e389-466a-b5b0-99cf0ceb074f.png,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,446889,Bikano Bikaneri Bhujia,536038,₹59,₹60,True,11,False,https://cdn.grofers.com/da/cms-assets/cms/product/d0d181f2-591e-4e4e-a838-7b279dabef40.png,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,45238,Haldiram's Nagpur Ratlami Sev Bhujia,1914422,₹50,₹50,True,14,False,https://cdn.grofers.com/da/cms-assets/cms/product/619c1afb-e18b-4bf9-9d38-3c0ed1ae7756.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,495690,Balaji Tikha Mitha Mixture Namkeen,828871,₹50,₹50,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/239fa3a5-06ab-45b9-bf03-a3ac9c034050.png,N/A,Balaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,490550,Crax Aloo Bhujia Namkeen Snacks,2148114,₹50,₹50,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/3d66d0b2-016b-4806-852e-46613d94f02a.png,N/A,Crax
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,115585,Balaji Aloo Sev Bhujia,1914050,₹45,₹45,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/c255c9c1-4433-498b-9c51-f60ee6e65a1f.png,N/A,Balaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,446887,Bikano All Time Mixture Namkeen,464926,₹69,₹70,True,11,False,https://cdn.grofers.com/da/cms-assets/cms/product/e7c73d97-38f8-4c17-984b-55f6f146e275.png,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,533325,Let's Try Sabudana Falhari Mixture,792528,₹77,₹100,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/82729852-b540-42fe-aef4-633e97267de8.png,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,33081,Haldiram's Nagpur Punjabi Tadka Namkeen,641183,₹55,₹55,True,8,False,https://cdn.grofers.com/da/cms-assets/cms/product/ae6acb3b-3b32-41d7-b85e-89e8ecd94f6a.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,36026,Haldiram's Nagpur All In One Mixture Namkeen,1913057,₹115,₹115,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/b86589c2-8ed7-4546-8d20-46493278b4ce.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,497496,A2B Rajapalayam Mixture Namkeen,828876,₹50,₹50,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/83c23edd-4030-4a02-9266-83f86a587208.png,N/A,A2B
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,36011,Haldiram's Nagpur Dal Biji Mixture Namkeen,1914681,₹50,₹50,True,13,False,https://cdn.grofers.com/da/cms-assets/cms/product/6fd8e3a3-1fc8-4718-be96-08f79d6ddbe9.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,112619,Balaji Moong Dal Namkeen,1914711,₹50,₹50,True,10,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a676c674-d48e-4734-9c14-12e95be8c086.jpg?ts=1721124830,N/A,Balaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,62122,Bikaji All in One Kuch Kuch Mixture Namkeen,1911825,₹116,₹122,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/46560fd4-3bab-4803-89e4-ad0fefffac36.jpg?ts=1728409789,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,341428,Chheda's Ratlami Sev Bhujia,1915698,₹55,₹55,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/998dca29-c4c0-4871-8fde-070f1fd7caf3.jpg?ts=1708594229,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,25468,Garden Nylon Sev Bhujia,1911255,₹53,₹55,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/55ae2fcc-5b94-49b3-8fc5-107c40feaafd.jpg?ts=1708588725,N/A,Garden
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,112601,Balaji Chana Dal Namkeen,1914112,₹45,₹45,True,20,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/372bbaa4-42f4-4fdd-a93f-85c0e2caa441.jpg?ts=1721124819,N/A,Balaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,525777,Haldiram's Nagpur Ratlami Sev Bhujia,882732,₹95,₹95,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/f2c23c07-b851-4d99-8bc9-9d1da1a2903f.jpg?ts=1737378938,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,496972,A2B Madras Mixture Namkeen,828873,₹50,₹50,True,4,False,https://cdn.grofers.com/app/images/products/sliding_image/496972a.jpg?ts=1687951343,N/A,A2B
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,25471,Garden Sabudana Chivda Namkeen,1912721,₹53,₹55,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/364b26ab-11c2-444c-858f-e1dffa036e7d.jpg?ts=1708588725,N/A,Garden
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,164707,Chheda's Farali Potato Falhari Mixture,1913754,₹73,₹90,True,6,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5dc4d82c-4ea3-40f4-a046-87037ef633e6.jpg?ts=1712061846,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,495328,Let's Try Sev Bhujia,643776,₹108,₹120,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/abb15895-c95a-4176-98ef-cabfece31131.jpg?ts=1738757971,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,496971,A2B Rajapalayam Karasev Namkeen,656668,₹80,₹80,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/496971a.jpg?ts=1688445287,N/A,A2B
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,338949,Chheda's Moong Dal Namkeen,1913061,₹60,₹60,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/338949a.jpg?ts=1687243864,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,495329,Let's Try Garlic Bhujia,643777,₹108,₹120,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/8fab50bf-fb26-4d7b-9ab9-3c80a45f054f.jpg?ts=1739179540,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,318748,Chheda's Golden Mixture Namkeen,1911130,₹55,₹55,True,5,False,https://cdn.grofers.com/app/images/products/sliding_image/318748a.jpg?ts=1687949314,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,91088,Bikaji Falhari Mixture,1912668,₹63,₹80,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/91088a.jpg?ts=1687948914,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,601151,Right Shift High Protein Roasted Mixture Namkeen | Khatta Meetha,2136345,₹90,₹150,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/9399d046-e8af-48ee-a9e8-4b991ae5557e.jpg?ts=1747303996,N/A,Right Shift
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,58596,Chheda's Tikha Sev Bhujia,1915674,₹55,₹55,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/58596a.jpg?ts=1687948909,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,490549,Crax Bhujia Namkeen Snacks,2148116,₹54,₹54,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1db82fc3-92a4-4174-9949-e82761f01514.jpg?ts=1708330362,N/A,Crax
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,372139,Chheda's Navratan Mixture Namkeen,1911174,₹52,₹55,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/372139a.jpg?ts=1687949322,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,17212,Tong Garden Salted Party Snack Mixture Namkeen,1913878,₹143,₹150,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d60eba52-8ff2-4d0f-8bfe-43e6709a8446.jpg?ts=1722930655,N/A,Tong Garden
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,630172,Crax Punjabi Tadka Namkeen Snacks,2099475,₹55,₹55,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/1df2bc12-716e-4b8e-a91a-f4e2d27a4d32.jpg,N/A,Crax
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,495327,Let's Try Biji Mixture Namkeen,856404,₹92,₹120,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/4ab207f9-127b-4cd7-a68a-e485949057c7.jpg?ts=1738757969,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,62131,Bikaji Tana Tan Aloo Bhujia,1911869,₹116,₹122,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/8cc81d0f-71ad-4b98-a5b6-218ef8498458.jpg?ts=1747631970,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,496973,A2B Special Mixture Namkeen,828874,₹60,₹60,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/496973a.jpg?ts=1688445287,N/A,A2B
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,481199,Parle Chatkeen Hot N Spicy Mixture Namkeen,828863,₹150,₹275,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/8262f8a1-9ffa-48fd-8054-c4b1515cbd59.jpg?ts=1751283269,N/A,Parle
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,600731,Right Shift High Protein Roasted Mixture Namkeen | Navrattan,2136347,₹150,₹250,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/86edcc85-a1b1-4190-89a2-17a2025cac3a.jpg?ts=1747303988,N/A,Right Shift
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,490551,Crax Moong Dal Namkeen Snacks,2099385,₹55,₹55,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e1678752-beaa-46d9-8cc7-031032031169.jpg?ts=1708330363,N/A,Crax
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,354536,Chheda's Bhelpuri Mix,1911224,₹55,₹55,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/354536a.jpg?ts=1687243865,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,115147,Tong Garden Freshly Roasted Party Mixture Namkeen,1911111,₹308,₹350,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ff9ad05f-4705-48f4-b45a-550c98fbc6e3.jpg?ts=1722930670,N/A,Tong Garden
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,24107,Bikano Navratan Mix Namkeen,1911137,₹60,₹60,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/57a56e3c-53cd-4e65-8e54-740c6cc87e9a.jpg?ts=1736785706,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,610479,Balaji Bhujia Sev,1395226,₹90,₹90,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/0f12fbc0-b84c-467a-97ea-8ea8d7d57624.jpg?ts=1738054018,N/A,Balaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,547731,Sweet Karam Coffee Madras Mixture Namkeen - No Palm Oil,911135,₹92,₹99,True,5,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a438ef38-28fc-4126-9edb-e4f7953a1e4f.jpg,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,439926,Garden Lemon Bhelpuri,828846,₹53,₹55,True,5,False,https://cdn.grofers.com/app/images/products/sliding_image/439926a.jpg?ts=1688471559,N/A,Garden
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,338950,Chheda's Nadyadi Mixture Namkeen,1912735,₹54,₹55,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/338950a.jpg?ts=1687949316,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,481983,Bikano Aloo Bhujia - Pack of 2,536037,₹119,₹120,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/d744d7c2-68ae-431e-a100-f4e0b921f51d.jpg?ts=1741587063,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,355488,Bikano Aloo Bhujia + Navratan Mixture + Tasty Peanut + Khatta Meetha Mixture + Shahi Mixture Namkeen Combo,1924210,₹99,₹99,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/24f0fe3e-5bf5-48d6-bae3-a689c7b4e961.jpg?ts=1708597504,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,34329,Bikano Aloo Bhujia,1913001,₹239,₹299,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/64189d19-c299-40fb-948d-f15aca1f083d.jpg?ts=1728388334,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,34338,Bikano Shahi Mixture Namkeen,1912039,₹260,₹320,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/6ed5bfbe-5fea-44ca-ae4d-78c444e9ad56.jpg?ts=1736785710,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,23765,Bikano Bikaneri Bhujia,1915645,₹270,₹320,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/976f13de-51b2-4717-9821-3715eaa52257.jpg?ts=1726835001,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,34339,Bikano Navratan Mixture Namkeen,1912455,₹295,₹299,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d1d5e514-9995-4d5a-a7bd-528c51827fe9.jpg?ts=1724292770,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,549612,True Elements Chatpata Mixture Namkeen,1258202,₹77,₹99,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9cf90903-5a18-4d19-83ce-4f6581e5c08f.jpg?ts=1714999668,N/A,True Elements
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,481197,Parle Chatkeen Khatta Meetha Mixture Namkeen,828862,₹139,₹200,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/3eb39fd9-0b21-4c98-8a8e-b22c90549593.jpg?ts=1751283262,N/A,Parle
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,513006,Let's Try Onion Bhujia,700099,₹108,₹120,True,2,False,http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7e2d537d-8154-4a10-bea1-cffc5df9c1ef.jpg?ts=1723622419,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,440069,Charlie's Lemon Bhelpuri,828850,₹63,₹100,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/440069a.jpg?ts=1688471561,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,443280,Chheda's Instant Bhelpuri,1914009,₹60,₹60,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/443280a.jpg?ts=1687755240,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,31130,675643,MAAGAANI Guilt Free Bhujia,2142065,₹169,₹249,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/bf753aac-7f26-4054-80c1-7e406d35fc91.jpg,N/A,MAAGAANI
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,62118,Bikaji Bikaneri Bhujia,1912312,₹315,₹350,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/09aa0ce7-d4d9-48c9-96c9-6dcc10147e84.jpg?ts=1728541023,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,30771,611492,EAT Anytime Millet Chivda - Bambaiya Bhel,1452782,₹199,₹299,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/c7e36b8a-62e5-4a9e-9d1e-3d1e1da8405a.jpg,N/A,EAT Anytime
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,345993,Chheda's Mahalaxmi Chivda Namkeen,1911744,₹55,₹55,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/345993a.jpg?ts=1687525112,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,345991,Chheda's Roasted Poha Chivda Namkeen,1911055,₹55,₹55,True,4,False,https://cdn.grofers.com/app/images/products/sliding_image/345991a.jpg?ts=1687438426,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,94178,Bikaji Moong Dal Namkeen,1913793,₹118,₹122,True,4,False,https://cdn.grofers.com/app/images/products/sliding_image/94178a.jpg?ts=1688628110,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,341425,Chheda's Chana Dal Namkeen,1913105,₹55,₹55,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/341425a.jpg?ts=1687326260,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,512766,Let's Try Falhari Mixture,1882986,₹77,₹100,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/37a90ab3-53f7-4f9b-9866-e4094774bb50.jpg?ts=1741158381,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,659690,Bikano Spicy Gathiya,2059596,₹60,₹60,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/02e57133-7749-415d-a72f-56758a209bdb.jpg,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,682337,Sweet Karam Coffee Crunchy Party Mixture (Navadhanya),2160598,₹129,₹129,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/3ef34559d2f94e619d0e69215df15a57.jpeg,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,31130,650434,JAWAI Roasted Diet Multigrain Mixture Namkeen,2181675,₹199,₹447,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/242fabfc-259c-4133-937d-5d2890593f39.jpg,N/A,JAWAI
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,614921,Bikano Lajawab Mixture Namkeen,1556822,₹272,₹320,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/21e98c64-3978-41df-9191-acdbfcca4ad9.jpg?ts=1738912461,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,23768,Bikano Khatta Meetha Mixture Namkeen,1912632,₹116,₹120,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/fbf2205d-2da6-4f83-98f0-6683e5eb6946.jpg?ts=1741098246,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,496974,A2B Navadhanya Mixture Namkeen,828875,₹50,₹50,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/496974a.jpg?ts=1686566067,N/A,A2B
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,659667,Bikano Diet Mixture Namkeen,2059557,₹225,₹225,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/05e7499f-6d05-4750-aa77-62f5cc9d8d17.jpg,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,495325,Let's Try Khatta Meetha Namkeen,643773,₹104,₹120,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/9b4795c6-9258-4f57-99ac-562406eeabb6.jpg?ts=1734593634,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,446965,Bikano Natkhat Nimbu Namkeen,464927,₹60,₹60,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/7b5f2c67-3576-43b4-988a-762ff2ba952f.jpg?ts=1729839078,N/A,Bikano
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,372147,Chheda's Bhels Puri Namkeen,1912852,₹60,₹60,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/a4eeee18-19ec-4a78-abce-4d4de6cae68f.jpg?ts=1741079756,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,481198,Parle Chatkeen Sev Bhujia,856400,₹110,₹200,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/c4a4a55b-5a04-465a-81f3-594787372924.jpg?ts=1747886854,N/A,Parle
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,545914,Balaji Murmura Sev Bhujia,2153942,₹50,₹50,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/aee32cae-f998-4b5a-bb62-de57b1a2303d.jpg?ts=1750836347,N/A,Balaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,341427,Chheda's Mora Sev Bhujia,1913782,₹55,₹55,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/341427a.jpg?ts=1687755237,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,587291,Lo! Foods Gluten Free Millet Ragi Chips Healthy Snacks,1685499,₹99,₹99,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/bdf91207-089f-4c0c-8a28-8c77e38181c0.jpg?ts=1749196968,N/A,Lo! Foods
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,3586,24 Mantra Organic Bengal Roasted Gram Dal / Channa Dal,1913768,₹127,₹130,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/7447edf7-49f6-435e-b388-64f8365bafff.jpg?ts=1742469645,N/A,24 Mantra Organic
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,479484,Lo! Foods Keto Murukku Chakli - Healthy Snacks Diet Namkeen,1237742,₹150,₹159,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/3dae4317-13b3-4ba9-9d84-fb5afb1e61d1.jpg?ts=1738223161,N/A,Lo! Foods
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,559750,Protein Chef Madras Mixture Namkeen High Protein Healthy Snacks,1237744,₹99,₹99,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/31e68f60-d84b-4f85-8b4a-7e76abb52b1e.jpg?ts=1747841376,N/A,Protein Chef
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,630396,Farmley Satva Falahari Dry Fruit Mix Healthy Snack & Fit For Fasting,1959451,₹174,₹199,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/a6859dfb-aacc-4b82-a06d-41fe2e97c050.jpg,N/A,Farmley
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,559860,Protein Chef Baked Bikaneri Bhujia Sev (Guilt Free Healthy Snacks Namkeen),1965277,₹99,₹99,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/7124db79-286a-476a-93ef-11e69508564b.jpg?ts=1752832856,N/A,Protein Chef
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,438972,Garden Diet Chivda Namkeen,454622,₹53,₹55,True,4,False,https://cdn.grofers.com/app/images/products/sliding_image/438972a.jpg?ts=1687953658,N/A,Garden
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,190425,Charlie's Lite Bhel Namkeen,1912422,₹55,₹55,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/e380b5f0-18d3-442e-ac2c-de5592f2bec9.jpg?ts=1751031799,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,246390,Chheda's Diet Poha Chivda Namkeen - 170 g,771470,₹55,₹55,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/246390a.jpg?ts=1687326249,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,255718,Balaji Shing Peanuts,1910378,₹45,₹45,True,7,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c81ba6ab-7e7a-4efa-930a-1ee0b9b894d7.jpg?ts=1721124884,N/A,Balaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,563459,Granamma Madras Mixture Namkeen,2028748,₹54,₹60,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/1ec862fb-2244-49d3-b4f3-f5ffe52374f5.jpg?ts=1734008975,N/A,Granamma
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,52616,Haldiram's Nagpur Corn Flakes Mixture Mixture Namkeen,828812,₹80,₹80,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1ea4e5f5-1efc-4187-83a7-3bbc78a53d52.jpg?ts=1708592753,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,532401,Let's Try Kerala Garlic Mixture Namkeen,761138,₹108,₹120,True,0,False,http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/094741de-078d-4274-9613-b59937615917.jpg?ts=1720379911,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,33080,Haldiram's Nagpur Falhari Mixture,1913028,₹50,₹50,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7140bf5d-e0c8-4a39-98d2-9b8539c926fd.jpg?ts=1708591114,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,497491,A2B Mota Sev Bhujia,856408,₹45,₹45,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/497491a.jpg?ts=1687338963,N/A,A2B
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,62130,Bikaji Khatta Meetha Tana Bana Mixture Namkeen,1913489,₹116,₹122,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3f323748-fa48-40a4-9d36-c30a0e8edf48.jpg?ts=1726571320,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,557937,Let's Try Kerala Garlic Mixture Namkeen - Pack of 2,1010228,₹204,₹240,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c111a3be-a798-44c1-8a38-3ee22691a775.jpg?ts=1721895849,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,528852,Let's Try Special Makhana Falhari Mixture - Pack of 2,792527,₹150,₹200,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/8220f3d3-2b02-49fa-8c64-31c73f0c31ee.jpg?ts=1741159809,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,443281,Udupi Munch Garlic Mixture Namkeen,1912898,₹45,₹60,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/6fc02a35-9920-468d-a255-b1ce1441ffc2.jpg?ts=1728850993,N/A,Udupi Munch
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,612222,Lal Madras Mixture Namkeen,268012,₹65,₹65,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/42ad39a9-de2c-4bee-b00d-9d15afb1c8f3.jpg?ts=1742463278,N/A,Lal
+
+21/07/2025,Munchies,1237,Bhujia & Mixtures,1178,36222,448094,To Be Honest Tangy Chickpea With Chilli & Lime Namkeen Snacks,856394,₹122,₹135,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/cc2b489b-7619-4c40-a924-50038819b72b.jpg?ts=1752061660,N/A,To Be Honest
+
+21/07/2025,Munchies,1237,Munchies Gift Pack,1694,36222,424025,4700BC Nutty Tuxedo Chocolate Popcorn,482030,₹250,₹250,True,4,True,https://cdn.grofers.com/da/cms-assets/cms/product/880bd059-d19d-4f51-b885-1710679aed90.jpg?ts=1729262569,N/A,4700BC
+
+21/07/2025,Munchies,1237,Munchies Gift Pack,1694,36222,617464,Crax Namkeen Snacks Party Combo,2151204,₹72,₹90,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/549b335b-f87b-48a1-b73f-76d8d0d7e852.jpg,N/A,Crax
+
+21/07/2025,Munchies,1237,Munchies Gift Pack,1694,36222,496308,"Open Secret Cookies, Brownie & Dry Fruits Gift Pack",1490480,₹329,₹350,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/e468ef7b-6194-448b-a3f8-dbbab26f86d8.jpg?ts=1751471030,N/A,Open Secret
+
+21/07/2025,Munchies,1237,Munchies Gift Pack,1694,36222,495576,4700BC Nutty Tuxedo Chocolate Popcorn Gift Pack,1175680,₹499,₹499,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/de543f1f-cb33-4ecd-b20c-b567e63641fc.jpg?ts=1729241386,N/A,4700BC
+
+21/07/2025,Munchies,1237,Munchies Gift Pack,1694,36222,480400,4700BC Himalayan Salt Caramel Popcorn,598505,₹225,₹225,True,1,True,https://cdn.grofers.com/da/cms-assets/cms/product/cba5f2bb-dc77-4757-a2b4-498e4bc07713.jpg?ts=1729241379,N/A,4700BC
+
+21/07/2025,Munchies,1237,Munchies Gift Pack,1694,36222,633249,Beyond Snack Kerala Banana Chips,2173134,₹80,₹80,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/49a34af6-c6f0-4f66-81c6-de20fd08cb0e.jpg?ts=1747394627,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Munchies Gift Pack,1694,36222,655937,Snackible Munchies Gift Box - Pack of 2,1896469,"₹1,151","₹1,598",True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/9373029d-2442-4583-bbf7-67847569047d.jpg?ts=1745833113,N/A,Snackible
+
+21/07/2025,Munchies,1237,Munchies Gift Pack,1694,36222,534300,Desi Ghee Dryfruit Besan Laddu by Unibic Swaadesi,774246,₹101,₹230,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/49c25938-e67d-41b2-b857-a6dde6465067.jpg?ts=1724930601,N/A,Unibic Swaadesi
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,500525,Let's Try Roasted Bhuna Chana,828877,₹93,₹150,True,3,True,https://cdn.grofers.com/da/cms-assets/cms/product/a769146b-b7bf-461e-9eea-960396ba9827.jpg?ts=1741158379,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,68630,Haldiram's Nagpur Salted Fried Peanuts,1913953,₹55,₹55,True,43,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0ae89142-e398-44cf-a459-f83c07b769ca.jpg?ts=1710137408,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,477176,Veerabhadra Masala Peanuts,856398,₹59,₹60,True,23,False,https://cdn.grofers.com/app/images/products/sliding_image/477176a.jpg?ts=1687950366,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,52632,Haldiram's Nagpur Mini Bhakarwadi Namkeen,1913043,₹65,₹65,True,16,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c78c0d3d-4037-44f4-9f76-bc3227a771b3.jpg?ts=1708592753,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,588255,Let's Try Hing Jeera Bhuna Chana,1244749,₹104,₹120,True,3,True,https://cdn.grofers.com/da/cms-assets/cms/product/b4f98758-eb1b-4cb0-8c6f-275dfdfd2f93.jpg?ts=1732623074,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,36018,Haldiram's Soya Sticks,1912985,₹45,₹45,True,14,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/814c0ff7-c271-4796-b479-7e2af4dcde7a.jpg?ts=1708591576,N/A,Haldiram's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,56272,Haldiram's Nagpur Boondi,1914579,₹55,₹55,True,28,False,https://cdn.grofers.com/app/images/products/sliding_image/56272a.jpg?ts=1690808663,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,36019,Haldiram's Nagpur Tasty Peanuts,1913145,₹55,₹55,True,27,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e668ad7b-d841-424a-8e7b-52027e151500.jpg?ts=1708591576,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,477173,Veerabhadra Chakodi / Chakli,1258197,₹69,₹70,True,3,True,https://cdn.grofers.com/app/images/products/sliding_image/477173a.jpg?ts=1688986152,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,372136,Chheda's Bhakarwadi Namkeen,1912980,₹51,₹70,True,11,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/145bad46-b059-4fdd-bfd2-144072e2ffa1.jpg?ts=1720374937,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,498941,Adukale Kayi Kodubale / Chakli,1258198,₹77,₹85,True,11,False,https://cdn.grofers.com/da/cms-assets/cms/product/80e77f5c-96b1-43db-93ae-178c975631a3.jpg?ts=1740745726,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,19803,Jabsons Tandoori Roasted Peanuts,637870,₹75,₹75,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/32f780a2-6bce-49a7-ab85-eeec49e50ed4.jpg?ts=1707548410,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,477179,Veerabhadra Masala Murukku Namkeen,541437,₹59,₹60,True,2,True,https://cdn.grofers.com/app/images/products/sliding_image/477179a.jpg?ts=1688986152,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,56737,Charlie's Yellow Bhuna Chana,1912769,₹51,₹80,True,17,False,https://cdn.grofers.com/da/cms-assets/cms/product/5c5b777b-7c91-44f7-91bc-0ade793e5201.jpg?ts=1750923882,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,500602,Modern Kitchens Butter Murukku Namkeen,1303173,₹63,₹70,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/93434de4-9167-4d11-9e76-49d7837465f0.jpg?ts=1735896964,N/A,Modern Kitchens
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,490546,Crax Mast Matar Green Peas Namkeen Snacks,828866,₹55,₹55,True,7,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/107cf539-04f7-4f33-8442-e37200eb0a10.jpg?ts=1708330362,N/A,Crax
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,676118,Crax Zero Classic Salted Peanuts,2142278,₹80,₹100,True,2,True,https://cdn.grofers.com/da/cms-assets/cms/product/a16ddafe-fd0a-49ed-a872-ef17b31e98e1.jpg?ts=1752843364,N/A,Crax
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,603,Haldiram's Nagpur Mini Samosa,1923988,₹65,₹65,True,6,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f3e3306e-9765-46e7-a765-81af84d2756c.jpg?ts=1707313057,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,375177,Town Bus Kodubale Namkeen Snacks,1923653,₹55,₹65,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/375177a.jpg?ts=1681890530,N/A,Town Bus
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,498950,Adukale Nippattu,669377,₹86,₹95,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/c84851cd-e183-4054-9fc3-4a198d3901bb.jpg?ts=1740745742,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,159879,"Jabsons Roasted Peanuts, Classic Salted",637891,₹70,₹70,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/159879a.jpg?ts=1688973209,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,498951,Adukale Khara Chakli,668299,₹86,₹95,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/fc9a1c5c-a059-4da5-a54b-2245049efbc4.jpg?ts=1740745747,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,498945,Adukale Maddur Vade Namkeen Snacks,856411,₹90,₹99,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/7c92094a-7373-44e9-bd17-8e67276da2e5.jpg?ts=1740745731,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,537912,Let's Try Salted Peanuts With Rock Salt,777539,₹80,₹88,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/72a9956f-47b1-4412-b29d-3adffb8a8eb3.jpg?ts=1741158407,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,498942,Adukale Onion Kodubale / Chakli,1258199,₹86,₹95,True,8,False,https://cdn.grofers.com/da/cms-assets/cms/product/7b4696a0-c28b-4b51-84ec-68c353b3e412.jpg?ts=1740658537,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,547735,"Sweet Karam Coffee Onion Kodubale/ Chakli, - No Palm Oil",911136,₹92,₹99,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b80a7b61-5b65-463b-b957-30aabd943ecc.jpg,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,127022,Bikano Classic Salted Peanuts,1908742,₹60,₹60,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/61bc5249-f020-4e95-a1d6-10d26c722b5c.jpg?ts=1738757803,N/A,Bikano
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,534212,"Balaji Wafer Chana Jor, Garam",828887,₹45,₹45,True,18,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9e807d72-1b79-442f-8ef9-1ff4ed4ff33c.jpg?ts=1721125018,N/A,Balaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,372137,Chheda's Chana Jor,1913162,₹55,₹55,True,7,False,https://cdn.grofers.com/app/images/products/sliding_image/372137a.jpg?ts=1687243866,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,375175,Town Bus Butter Murukku Namkeen,1923462,₹55,₹65,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/375175a.jpg?ts=1681890530,N/A,Town Bus
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,345988,Chheda's Kachori,1912944,₹48,₹65,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/a951535e-a061-4f2b-a47a-e9513e197e6a.jpg?ts=1728543539,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,563445,Granamma Kodubale / Ring Murukku Namkeen,1258220,₹54,₹60,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/49525cf1-e4be-407c-a800-096e83533cc2.jpg?ts=1734008963,N/A,Granamma
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,500601,Modern Kitchens Masala Boondi,1303300,₹68,₹75,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/0fb02e71-0ae0-486a-ad18-699746662f4e.jpg?ts=1735896959,N/A,Modern Kitchens
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,375172,Town Bus Boondi,1921775,₹57,₹65,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/375172a.jpg?ts=1681890529,N/A,Town Bus
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,537943,Let's Try Masala Peanuts With Rock Salt,777741,₹80,₹88,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/f56816f9-bffc-4d78-892f-817c0a576bc4.jpg?ts=1741158417,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,498947,Adukale Khara Boondi,668291,₹86,₹95,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/a4cb034f-2ee2-4dd8-8669-6e8df24efa62.jpg?ts=1740745737,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,103916,"Jabsons Roasted Peanuts, Nimboo Pudina",637893,₹75,₹75,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/103916a.jpg?ts=1688443500,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,681403,A2B Seedai,2157294,₹90,₹90,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/609ddaee-460c-48e2-87ed-38f393db7214.jpg,N/A,A2B
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546826,Jabsons Bharuchi Khari Sing Peanuts,817032,₹100,₹100,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bbad3db8-34bf-4dad-a68b-1e096cdd89da.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,56732,Charlie's Salted Peanuts,1912214,₹49,₹50,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/b43667df-d8c8-458a-93ae-2cc17fdeaa10.jpg?ts=1751031791,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,500751,Adukale Congress Kadelkayi / Groundnuts,676988,₹122,₹135,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/259d1a6c-92a5-4425-82f0-18ea7a4f48e6.jpg?ts=1741598014,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,500752,Adukale Masala Groundnuts,676191,₹122,₹135,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/50979c09-c615-4152-810d-74bf00bdd181.jpg?ts=1740658549,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,555558,Taali Roasted Masala Peanuts,951116,₹72,₹80,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/12fd5942-d8ba-476b-802f-86264af73500.jpg?ts=1743580309,N/A,Taali
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,498774,Taali Roasted Nimbu Pudina Peanuts,667840,₹72,₹80,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/ab58d893-3d74-445d-a5cf-0a495f99faea.jpg?ts=1751265355,N/A,Taali
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,498773,Taali Roasted Salted Peanuts,667839,₹72,₹80,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/b619d420-43ca-4fce-8a1f-ad4c71959f41.jpg?ts=1751265299,N/A,Taali
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,547768,"Sweet Karam Coffee Ribbon Pakoda / Murukku Namkeen, - No Palm Oil",911162,₹92,₹99,True,10,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a22db5a2-8c8e-4149-8e19-2a55c26f1e75.jpg?ts=1722935671,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,477174,Veerabhadra Kaju Biscuit,519724,₹64,₹65,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/477174a.jpg?ts=1687523667,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546832,Jabsons Salted Sabudana Falhari Mixture,828896,₹80,₹80,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/38f8f359-912a-4b3a-9728-98bf390a7508.jpg?ts=1743316576,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546359,"Jabsons Roasted Wheat Khakhra, (Methi)",820648,₹80,₹80,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/21544e42-fd71-499a-8857-7cfb6197f510.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,318776,Chheda's Tasty Peanuts,1913015,₹60,₹60,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/318776a.jpg?ts=1687243863,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,525567,Bikaji Masala Munch Soya Sticks,733729,₹58,₹80,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/525567a.jpg,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,563434,Granamma Butter Murukku Namkeen,1258218,₹54,₹60,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/12079efe-0c6c-482e-89a2-925eee18b29b.jpg?ts=1734008947,N/A,Granamma
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,56277,Haldiram's Nagpur Lemon Bhelpuri,801595,₹40,₹40,True,7,False,https://cdn.grofers.com/app/images/products/sliding_image/56277a.jpg?ts=1688627216,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,477183,Veerabhadra Jangri Murukku Namkeen,541438,₹59,₹60,True,5,False,https://cdn.grofers.com/app/images/products/sliding_image/477183a.jpg?ts=1686561770,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,425324,Charlie's Masala Butter Chakli,2154218,₹49,₹76,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/cf09a708-092b-4a1e-b081-d2ac4f8f7b99.jpg?ts=1750845842,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,543687,Haldiram's Nagpur Quick Bite Mathri/Matthi,802798,₹65,₹65,True,6,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e679b612-8a82-41d1-8fc9-1f3349055285.jpg,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,625591,Shrego Roasted Unsalted Peanuts,1904698,₹195,₹200,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/a0d69d0f-a556-43e1-bcfb-a9435367713e.jpg?ts=1740985377,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546824,Jabsons Falahari Mixture,817029,₹70,₹70,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4dcc643b-1d13-4038-afc3-f17d851b360c.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,25469,Garden Onion Pakoda Namkeen / Chakli,1911213,₹48,₹50,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/926f392d-3b53-4cd0-8ff5-cd5711ae5016.jpg?ts=1708588725,N/A,Garden
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,372142,Chheda's Salted Boondi,1911814,₹55,₹55,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/372142a.jpg?ts=1687755238,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,548233,Modern Kitchens Spicy Murukku Namkeen,1985795,₹63,₹70,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0e7935fc-aeaa-4070-910d-69131ef70980.jpg?ts=1712912545,N/A,Modern Kitchens
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,604392,Haldiram's lachcha Pheni,1335691,₹190,₹190,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/eeab86e1-4cda-4b94-a71f-96a3bf184411.jpg?ts=1736510741,N/A,Haldiram's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546827,Jabsons Lemon & Chilli Roasted Peanuts,2108185,₹75,₹75,True,5,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/4c6a8a7d-efdc-4930-9b8d-f15b8dfe5bd4.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,520032,Daadi's Crips Wheat Butter Garlic Khakhra,722833,₹85,₹90,True,6,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e237715f-2945-4b7f-a382-fa09f5194e36.jpg?ts=1707992666,N/A,Daadi's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,563436,Granamma Crunchy Nippattu Thattai,1258219,₹54,₹60,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/ba737bc7-f8ee-4cde-9bb1-afd31310565d.jpg?ts=1734008955,N/A,Granamma
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,557200,"Wah Luft Puri Papdi, (Approx 50 puris)",1016849,₹94,₹120,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ac9af8ea-5b93-46cb-85da-9091f4694bfd.jpg?ts=1719920990,N/A,Wah Luft
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,534105,Balaji Wafers Farali Chevdo Falhari Mixture,792529,₹91,₹95,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b9f67285-3b25-4f83-9b77-eebfcf5af9ab.jpg?ts=1721124996,N/A,Balaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,552688,Let's Try Purani Delhi Papdi,837315,₹102,₹150,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/a04d2b6e-978e-4035-9c5a-120e80fff503.jpg?ts=1741158420,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,61427,Jabsons Chana Jor,637890,₹60,₹60,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3c5d2724-cef4-4bde-9233-5c2e4637ea54.jpg?ts=1708593031,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,381603,Anand Benne Murukku Namkeen,1923956,₹120,₹120,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/f93d48c8-1b65-48bc-9120-68bb99144117.jpg?ts=1752560212,N/A,Anand
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,503309,Snackible Cheese Dosa Khakhra,681618,₹99,₹120,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/59ffd472-ac39-4810-88d9-3b331bfa1085.jpg?ts=1746087135,N/A,Snackible
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,56826,Daadi's Masala Khakhra,1912843,₹85,₹90,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3b7a8dff-ea4d-4ab9-a279-891b4c5590a5.jpg?ts=1707992720,N/A,Daadi's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,25460,Garden Crispy Murukku Namkeen,1910554,₹53,₹55,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/08a40150-77db-4046-acad-331fdb8f040a.jpg?ts=1708588724,N/A,Garden
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,521252,Town Bus Thenkuzhal Murukku Namkeen,801613,₹65,₹75,True,4,False,https://cdn.grofers.com/app/images/products/sliding_image/521252a.jpg,N/A,Town Bus
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,500523,Let's Try Mathri/Matthi,1400709,₹119,₹150,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/f8d117ff-03a2-4e94-a8cb-4c8284052f66.jpg?ts=1741158377,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,497488,A2B Namkeen Snacks,856407,₹90,₹90,True,4,False,https://cdn.grofers.com/app/images/products/sliding_image/497488a.jpg?ts=1686566071,N/A,A2B
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,490545,Crax Double Mazza Roasted Chana Peanuts Namkeen Snacks,2148118,₹55,₹55,True,8,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0b71721e-9a11-40f3-8a3a-d79d6f00bd8c.jpg?ts=1708330362,N/A,Crax
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546831,Jabsons Hing Jeera Roasted Peanuts,2047756,₹75,₹75,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/139503c7-9eb0-4ca6-827d-db781728bed3.jpg?ts=1746188042,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,375178,Town Bus Ribbon Namkeen Snacks,1920623,₹55,₹65,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/375178a.jpg?ts=1681985851,N/A,Town Bus
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,372143,Chheda's Masala Boondi,1915744,₹55,₹55,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/372143a.jpg?ts=1687755238,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546364,Balaji Wafers Gathiya,824622,₹55,₹55,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1d375924-86cd-4a36-bd6d-13f14e8ed149.jpg,N/A,Balaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,553263,"Wah Luft Pani Puri, Pellets",844799,₹90,₹99,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/5f1fd57d-ad3e-4ba3-9bf9-7f1de1178892.jpg?ts=1753087093,N/A,Wah Luft
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546182,Jabsons Spicy Masala Roasted Chana / Bhuna Chana,2108302,₹72,₹75,True,5,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/17110674-61f4-4fe4-8d9d-2ac1f337631c.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,600824,Shrego Dark Roasted Whole Unsalted Peanuts,1326868,₹195,₹200,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/7a17ea31-8e29-4874-a2a3-751e4559d5b8.jpg?ts=1735805366,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,306819,Daadi's Panipuri Khakhra,1912523,₹85,₹90,True,6,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/460b3c87-a25b-49be-901d-c3933b9d3e76.jpg?ts=1707992740,N/A,Daadi's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,524271,Modern Kitchens Namkeen Snacks,856420,₹72,₹85,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/524271a.jpg,N/A,Modern Kitchens
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,495330,Let's Try Gathiya,828869,₹108,₹120,True,1,False,http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/76e2e95b-e471-40ab-a3e3-1f327c00f14d.jpg?ts=1706005957,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,561076,Eat Better Co Desi Masala Millet Namkeen,1047734,₹57,₹59,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/1a6da4a4-f34d-41c1-8716-97a514f6b200.jpg?ts=1748811181,N/A,Eat Better Co
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,474086,"Kari Kari Rice Cracker Peanut Mix Namkeen Snacks, (Chilli Garlic)",2107142,₹50,₹50,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b5f12f99-b4fc-498e-b84f-d1a96d13d128.jpg?ts=1708414667,N/A,Kari Kari
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,457221,Haldiram's Nagpur Soya Sticks,828854,₹80,₹104,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/306ce038-f2b8-45d1-a6de-675356032538.jpg?ts=1729668608,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,493013,"VS Mani & Co. Garlic Ribbon Murukku, No Palm Oil",1227359,₹49,₹55,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/5a9183a2-eccf-4201-b196-c3fc8082eecf.jpg?ts=1734330797,N/A,VS Mani & Co.
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,477175,Veerabhadra Roasted Bhuna Chana,828856,₹64,₹65,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/477175a.jpg?ts=1688471934,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,603555,A2B Mini Thenkuzhal Murukku,1337187,₹90,₹90,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/e17c4584-a0ca-4659-864d-21d1dbd4d93e.jpg?ts=1736427614,N/A,A2B
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,600820,"Shrego Khari Sing Traditionally Roasted Salted Jumbo Peanuts, with Husk",2078361,₹195,₹200,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/3a09102f-df7a-4f74-abfa-503f3b31623d.jpg?ts=1738067990,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546138,Tong Garden Salted Peanuts,273984,₹132,₹150,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e92a356e-7d21-453a-9dee-749d1bddb414.jpg?ts=1722930752,N/A,Tong Garden
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,618335,Shrego Roasted & Salted Peanuts,1902818,₹179,₹200,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/a2e48ff6-02d9-4a09-8ed0-0c3ed99c19e9.jpg,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,477338,"Kari Kari Rice Cracker Peanut Namkeen Snacks, - Salt and Pepper",2108521,₹50,₹50,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/528a2213-1e14-4160-9688-ef7fe770de03.jpg?ts=1708676587,N/A,Kari Kari
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,381551,Anand Lovely Namak Para,1921247,₹150,₹150,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/06840a7d-194c-4ac2-bbe7-97da9d30bb25.jpg?ts=1752560188,N/A,Anand
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,561083,Eat Better Co Mango Achari Millet Namkeen,1047730,₹57,₹59,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/111868bb-643c-4250-b388-1b59320ae7c6.jpg?ts=1748811191,N/A,Eat Better Co
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,563588,Sweet Karam Coffee Butter Murukku Namkeen,1258222,₹92,₹99,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d8629fec-2d04-424d-8f3b-f6fde32d7042.jpg,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,25467,Garden Mini Bhakarwadi Namkeen,1912817,₹53,₹55,True,5,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5b478be9-2751-4101-85c4-31596ab7bce2.jpg?ts=1708588725,N/A,Garden
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,553583,Wah Luft Pani Puri,274504,₹149,₹149,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8c62d189-311e-4ba7-bffb-5e1887d24f0f.jpg?ts=1715946855,N/A,Wah Luft
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546835,Jabsons Onion & Garlic Green Pea Snack,828897,₹76,₹80,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/17e2dc8b-fe13-433a-8877-68c743ed4f7f.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,500522,Let's Try Dal Mathri/Matthi,1400897,₹119,₹150,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/500522a.jpg?ts=1681290783,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,600832,Shrego Classic Salted Roasted Peanuts,1326949,₹195,₹200,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/e823500c-f759-463f-8f27-14291acdbb20.jpg?ts=1735893782,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,164935,Charlie's Jeera Khakhra,2155941,₹58,₹60,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/76b2aa31-527a-4d08-bb2f-83d28752bc5a.jpg?ts=1750923912,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,477186,Veerabhadra Murukku Namkeen,541440,₹69,₹70,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/477186a.jpg?ts=1693830555,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,440068,Charlie's Schezwan Soya Sticks,828849,₹63,₹100,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/427a2cdc-2e2a-415f-aa1f-b30a45465c85.jpg?ts=1750855044,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,544667,Anand Sweets Maddur Vade,1401217,₹150,₹150,True,1,False,http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/99d21908-399d-4020-a433-8e0efdf1e0a6.jpg?ts=1715229615,N/A,Anand
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,600826,"Shrego Radhe Bhuna Chana, (Roasted Chickpeas) With Skin",1464260,₹189,₹200,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/347dbcf6-64f9-42b2-96f3-1e65ad9edc34.jpg?ts=1735805372,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,608513,Modern Kitchens Spring Murukku Namkeen,1985972,₹63,₹70,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/46a68795-9a0b-4661-bb6c-d85f798b3aab.jpg?ts=1737462311,N/A,Modern Kitchens
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,440068,Charlie's Schezwan Soya Sticks,828849,₹63,₹100,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/427a2cdc-2e2a-415f-aa1f-b30a45465c85.jpg?ts=1750855044,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,544667,Anand Sweets Maddur Vade,1401217,₹150,₹150,True,1,False,http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/99d21908-399d-4020-a433-8e0efdf1e0a6.jpg?ts=1715229615,N/A,Anand
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,600826,"Shrego Radhe Bhuna Chana, (Roasted Chickpeas) With Skin",1464260,₹189,₹200,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/347dbcf6-64f9-42b2-96f3-1e65ad9edc34.jpg?ts=1735805372,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,608513,Modern Kitchens Spring Murukku Namkeen,1985972,₹63,₹70,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/46a68795-9a0b-4661-bb6c-d85f798b3aab.jpg?ts=1737462311,N/A,Modern Kitchens
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,480312,Wah Luft Bhelpuri,1287177,₹65,₹65,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a31bdee9-f292-4766-8b0d-25b5e02c88ea.jpg?ts=1709722428,N/A,Wah Luft
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,595079,Unibic Swaadesi Mysore Garlic Mixture Namkeen,2056824,₹90,₹100,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/0a0a89b4-cab0-4194-8b29-08c00b9e8144.jpg?ts=1745918202,N/A,Unibic
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,616777,Shrego Hing Jeera Roasted Chickpeas,1837432,₹195,₹200,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/1f312263-aa11-4c3d-80d8-d9ca1f85b8a9.jpg,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,547200,Jabsons Dry Kachori,274010,₹70,₹70,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/82cf66d1-3b22-48fa-b14c-0d2d875085c1.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,17224,Tong Garden Wasabi Coated Green Pea Snack,1913400,₹138,₹150,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/55ab9d4a-9212-42f7-826f-b4241c5bf236.jpg?ts=1722930665,N/A,Tong Garden
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,616782,Shrego Mirch Masala Roasted Chickpeas,1837430,₹179,₹200,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/fe376983-0084-44b5-a668-2741ab559ec1.jpg,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546180,Jabsons Roasted Chana / Bhuna Chana,815468,₹76,₹80,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/00464dab-8797-4756-a860-08176ac921a6.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,493012,VS Mani & Co. Pepper Murukku Namkeen,801609,₹52,₹60,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/598768c2-e5bf-4c29-8a7d-933f03139971.jpg?ts=1737010903,N/A,VS Mani & Co.
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,603532,A2B South Indian Bitter Gourd Chips,1337627,₹50,₹50,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/44aea8a2-1460-4386-bd47-64b435f8312c.jpg?ts=1744286371,N/A,A2B
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,381549,Anand Dry Samosa,1921566,₹150,₹150,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/649c6cf2-4345-4d66-a4d0-499da629c110.jpg?ts=1752560176,N/A,Anand
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,612216,Lal Butter Murukku Namkeen,1453202,₹65,₹65,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/78395f6a-058c-438a-b397-a801a7864c0c.jpg?ts=1742463142,N/A,Lal
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,619134,"Vyndo Masala Ragi Bhakhri, Healthy Millet Snacks",2176805,₹198,₹198,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/bda76e70-f656-43b6-93c4-4cd6c3450bbd.jpg?ts=1743573474,N/A,Vyndo
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,626482,"Vyndo Roasted Ragi Bhakhri, Healthy Millet Snacks",2176815,₹198,₹198,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/89b498a2-3245-485b-ae71-b73ea6eccdea.jpg?ts=1751965852,N/A,Vyndo
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,611295,Chitale Bingebar Bhel Namkeen,1453072,₹100,₹100,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/c4c03286-e844-4c9f-b2f3-b2dabb910359.jpg?ts=1738063275,N/A,Chitale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,553516,"Wah Luft Bhelpuri, (with Bhel Chutney)",885395,₹175,₹175,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/6cebabcf-0d2a-4258-8dc0-0ce3118eda26.jpg?ts=1753087098,N/A,Wah Luft
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,588253,Let's Try Bikaneri Bhujia,1243624,₹104,₹120,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/3b56112b-804e-4c32-926c-58e3a2f2457b.jpg?ts=1732623069,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,563461,Granamma Kara Boondi,1077160,₹54,₹60,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/766bf31f-6c9c-4088-b857-4d0c1468291a.jpg?ts=1734008984,N/A,Granamma
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,425171,Charlie's Butter Chakli,2159034,₹54,₹55,True,5,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/44c6a373-93db-4ed3-bc1d-ab72c0b2f291.jpg?ts=1724923613,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,381556,Anand Ribbon Chakli,1922664,₹150,₹150,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/e8a62f1c-bf39-461b-b0c3-9c7ea8a9aa59.jpg?ts=1752560200,N/A,Anand
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,635655,EAT Anytime Achari Masala Millet Chivda,1945365,₹185,₹299,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/f99945b1-23ab-4bac-9651-296e3b3cdcce.jpg,N/A,EAT Anytime
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,637401,EAT Anytime Magic Masala Millet Chivda Namkeen,1949664,₹179,₹299,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/b0b9721f-5d77-4792-9e5c-8969772f5aa8.jpg?ts=1743506091,N/A,EAT Anytime
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,635958,EAT Anytime Tomato Millet Chivda Namkeen,1943243,₹199,₹299,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/d8233de8-88ea-4515-9e5e-c9ce46fe07b9.jpg,N/A,EAT Anytime
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,660276,"Wingreens Farms Flatbread, Garlic Chilli",2066626,₹135,₹150,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/5b1aea8a-4d1e-4994-b266-4c91bb27f03b.jpg,N/A,Wingreens Farms
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,660287,"Wingreens Farms Flatbread, Italian Herb",2066638,₹135,₹150,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/85d2208f-eb51-4e1b-851b-db153d793e4e.jpg,N/A,Wingreens Farms
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,372140,Chheda's Bhavnagari Gathiya,1913906,₹55,₹55,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/372140a.jpg?ts=1687243866,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,658899,JAWAI Manchurian & Cheese Roasted Whole Wheat Khakhra,2178480,₹199,₹298,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/ea0ad749-09d6-47b2-9dee-8c3117224a20.jpg?ts=1746619478,N/A,JAWAI
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,658908,JAWAI Punjabi & Pani Puri Roasted Whole Wheat Khakhra,2178477,₹199,₹298,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/ea9ffdf3-644e-4c38-b047-e68f27e9705d.jpg?ts=1746619514,N/A,JAWAI
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,520033,Daadi's Crips Wheat Peri Peri Khakhra,722834,₹85,₹90,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/78acfb80-89dc-41ad-8364-053334754b0c.jpg?ts=1707992666,N/A,Daadi's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546362,Jabsons Roasted Jeera Khakhra,1899667,₹80,₹80,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/eacaafc1-8709-4e3c-b29c-852621a8c476.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,633190,Vyndo Sattu Khakhra,1931879,₹198,₹198,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/e4e50920-9a21-41ce-8086-ec8bda0d05f6.jpg,N/A,Vyndo
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,637400,EAT Anytime Tangy Tomato Millet Kurmura,1949995,₹169,₹249,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/dabd5207-6089-41f6-bc15-182332f16594.jpg?ts=1743506086,N/A,EAT Anytime
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,498946,Adukale Chow Chow Mixture Namkeen,669369,₹90,₹99,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7deea2c1-497a-40fc-93b4-67c7dc38bf3b.jpg?ts=1708601866,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,612218,Lal Garlic Mixture Namkeen,1453207,₹65,₹65,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/ae73069c-ce07-4015-81dd-80c77b371c7d.jpg?ts=1742463189,N/A,Lal
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,498952,Adukale Plain Murukku,668296,₹77,₹85,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/498952a.jpg?ts=1686566080,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,500750,Adukale Khara Murukku,676189,₹81,₹89,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/ff952c66-26ae-46fe-a020-653d6f38b08c.jpg?ts=1740745752,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,497139,A2B Andhra Murukku Namkeen,801610,₹50,₹50,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2c92ddae-2762-4795-95af-8637c0e7d6e6.jpg?ts=1705998860,N/A,A2B
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,497489,A2B Butter Murukku Namkeen,801611,₹45,₹45,True,5,False,https://cdn.grofers.com/app/images/products/sliding_image/497489a.jpg?ts=1688977034,N/A,A2B
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,534210,Balaji Wafers Masala Sev Murmura Murukku Namkeen,1258200,₹45,₹45,True,13,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/72cacf17-a719-43bc-8a54-b717c341989b.jpg?ts=1721125008,N/A,Balaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,554121,Daadi's Namak Para,880149,₹101,₹115,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9abf407a-c3f6-4101-9acb-36edc3ee8f9b.jpg?ts=1716812112,N/A,Daadi's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,650938,Eat Better Co Pudina Punch Millet Namkeen,2006971,₹59,₹69,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/5ad1dfda-bc42-4bdb-8236-8f24b93ebf06.jpg?ts=1747596160,N/A,Eat Better Co
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,498949,Adukale Corn Flakes Mixture Namkeen,669376,₹90,₹99,True,5,False,https://cdn.grofers.com/app/images/products/sliding_image/498949a.jpg?ts=1688977036,N/A,Adukale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,497492,A2B Ribbon Pakoda Namkeen Snacks,856409,₹40,₹40,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/9af3bb93-987f-4ac9-8fc1-d469c6a7090c.png,N/A,A2B
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,651155,Kari Kari Roasted Sweet & Salty Rice Cracker Namkeen Snacks,2113393,₹50,₹50,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/55e28b0e-dc3f-4d95-8c8d-7d486c03fa07.png,N/A,Kari Kari
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,682340,"Sweet Karam Coffee Nippattu, (Crunchy Rice Crackers)",2160609,₹149,₹149,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/24d67b0a-70d8-41dd-b6e6-8d25abf48bde.png,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,656571,Shareat Foochka Millets Pani Puri,2034675,₹55,₹99,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/84c785c5-dfe2-40f7-af7a-6bf72cf908b0.png,N/A,Shareat
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,657877,Shareat Sweet & Spicy Pani Puri,2048279,₹66,₹119,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/172089fd-2d3e-4db7-8b43-a7e267a0bd6d.png,N/A,Shareat
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,656574,Shareat Wheat Foochka Pani Puri,2034750,₹166,₹299,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/37fb762b-3431-4699-ad4f-636a955e17d0.png,N/A,Shareat
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,656573,Shareat Whole Wheat Foochka Pani Puri,2044483,₹39,₹69,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/dee969f5-c253-4650-a1ff-b56327e26cef.png,N/A,Shareat
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,524369,Let's Try Besan Papdi,817144,₹82,₹120,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/9a742620-de2e-4ffc-b40b-3b7fd9ed43b8.png,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,612231,Lal Masti Munchies Masala Peanut Namkeen,1464609,₹65,₹65,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/12956ed1-ce27-4ea4-86f8-f8c405d6d61d.png,N/A,Lal
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,91100,Bikaji Nut Cracker Coated Peanuts,1915063,₹55,₹70,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/c07526fd-404c-4f92-91f9-87ba3bce4ce9.png,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,495323,Let's Try Party Mix Peanuts,790053,₹115,₹150,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/9fe4263b-684f-442c-a1f2-edff33f9742a.png,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,17226,Tong Garden Salted Peanuts,299813,₹146,₹160,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/2bb563d2-4a01-44b4-a3f0-ed12cad2c618.png,N/A,Tong Garden
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,255718,Balaji Shing Peanuts,1910378,₹45,₹45,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/c7c66a2b-0bfe-48ac-ad9a-0479df7cb5cd.png,N/A,Balaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,272121,Chitale Shankarpali,1921014,₹70,₹70,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/e6de9c5b-8f64-47f3-b7bc-23790abde26e.png,N/A,Chitale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,372144,"Chheda's Soya Sticks, Snax",1912806,₹48,₹65,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/98934f8b-2c02-437e-a0dc-faca42a759b8.png,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,559862,Protein Chef Baked Coated Peanuts (Masala Roasted Healthy Snacks),1965275,₹69,₹75,True,16,False,https://cdn.grofers.com/da/cms-assets/cms/product/bf7cbdb0-862b-4300-badd-44c5fb85b7df.jpg?ts=1752832859,N/A,Protein Chef
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,363859,Saravana's Pani Puri Papad,329410,₹35,₹60,True,4,False,https://cdn.grofers.com/app/images/products/sliding_image/363859a.jpg?ts=1690814034,N/A,Saravana's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,587291,Lo! Foods Gluten Free Millet Ragi Chips Healthy Snacks,1685499,₹99,₹99,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/bdf91207-089f-4c0c-8a28-8c77e38181c0.jpg?ts=1749196968,N/A,Lo! Foods
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,479484,Lo! Foods Keto Murukku Chakli - Healthy Snacks Diet Namkeen,1237742,₹150,₹159,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/3dae4317-13b3-4ba9-9d84-fb5afb1e61d1.jpg?ts=1738223161,N/A,Lo! Foods
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,559750,Protein Chef Madras Mixture Namkeen High Protein Healthy Snacks,1237744,₹99,₹99,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/31e68f60-d84b-4f85-8b4a-7e76abb52b1e.jpg?ts=1747841376,N/A,Protein Chef
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,112619,Balaji Moong Dal Namkeen,1914711,₹50,₹50,True,10,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a676c674-d48e-4734-9c14-12e95be8c086.jpg?ts=1721124830,N/A,Balaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,363861,Saravana's Fryums,1396499,₹32,₹55,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/363861a.jpg?ts=1690814339,N/A,Saravana's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,75534,Nongshim Onion Ring Puffs,774566,₹139,₹139,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5fe78691-f9b7-497c-a111-b4fb2514aa02.jpg?ts=1723098455,N/A,Nongshim
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,495687,Balaji Crunchem Masala Masti Wafers,802794,₹40,₹40,True,12,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2b9604d1-4fc1-438a-b76a-f0ccbca44a03.jpg?ts=1721124927,N/A,Balaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,495327,Let's Try Biji Mixture Namkeen,856404,₹92,₹120,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/4ab207f9-127b-4cd7-a68a-e485949057c7.jpg?ts=1738757969,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,481199,Parle Chatkeen Hot N Spicy Mixture Namkeen,828863,₹150,₹275,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/8262f8a1-9ffa-48fd-8054-c4b1515cbd59.jpg?ts=1751283269,N/A,Parle
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,88366,Balaji Crunchem Cream & Onion Wafers,802791,₹40,₹40,True,7,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a12a4d48-99e6-4cc0-b7d1-9a0651f6963a.jpg?ts=1721124809,N/A,Balaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,627018,Farmley Tangy Tomato Flavoured Makhana,1903923,₹147,₹159,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/7c720fde-c072-496b-b08d-1e50e862ab3e.jpg,N/A,Farmley
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,495688,Balaji Crunchem Tomato Twist Wafers,802788,₹40,₹40,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/47fe88a4-988c-4d11-94db-224d4fadcc02.jpg?ts=1721124936,N/A,Balaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,616768,Farmley Salt & Pepper Roasted Flavoured Makhana,1760752,₹146,₹159,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/5f2ec3af-1bd2-42be-ad32-320624933022.jpg?ts=1746003452,N/A,Farmley
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,547731,Sweet Karam Coffee Madras Mixture Namkeen - No Palm Oil,911135,₹92,₹99,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/e15d182c-4ea5-47f9-aecd-772d0a73d1fe.png,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,616760,Farmley Peri Peri Flavoured Makhana,1903843,₹146,₹159,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/ade1f934-23ca-4acd-bc9a-a0d6a497f00e.png,N/A,Farmley
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,616763,Farmley Himalayan Salt Flavoured Makhana,823420,₹146,₹159,True,11,False,https://cdn.grofers.com/da/cms-assets/cms/product/98876129-fdfe-4cad-a372-e26109467ebe.png,N/A,Farmley
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,438505,Tong Garden Salted Cashew,756211,₹266,₹280,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/dc560e95-6af8-4544-b51f-d225c4cd9952.png,N/A,Tong Garden
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,616758,Farmley Cream & Onion Flavoured Makhana,1903853,₹146,₹159,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/9513da07-e11e-46b9-b86e-50ce8c106c17.png,N/A,Farmley
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,288386,Tong Garden Salted Cocktail Nut Mix,790009,₹258,₹280,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/a9fd3b34-9180-415a-81a7-5fddffba5c7a.png,N/A,Tong Garden
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,616770,Farmley Cheesy Cheddar Flavoured Makhana 55 g,1761034,₹146,₹159,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/0a3e7458-eb55-43c6-88ab-9e1d1d5553d1.png,N/A,Farmley
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,427840,Cornitos Pop n Crunch Party Nut Mix,789995,₹149,₹150,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/caed91c2-43c8-4fa2-bd57-3573e3f536b7.png,N/A,Cornitos Pop n Crunch
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,521545,Open Secret Tandoori Masala Dry Fruit Mix Dry Fruit Snacks,2168590,₹31,₹50,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/f2dacea1-9b80-45c7-849b-8620338ecb86.png,N/A,Open Secret
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,359091,Cornitos Pop n Crunch Roasted Cashew (Lightly Salted),1910631,₹406,₹410,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/e3d7d649-c460-41fa-9721-cda55d14dea4.png,N/A,Cornitos Pop n Crunch
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,458398,"Open Secret Nutty Tandoori Masala Nut Mix (Almonds, Peanuts & Cashews)",801533,₹156,₹325,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/0065d2d7-3675-4f5b-a51e-150b45f75cc5.png,N/A,Open Secret
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,481197,Parle Chatkeen Khatta Meetha Mixture Namkeen,828862,₹139,₹200,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/3eb39fd9-0b21-4c98-8a8e-b22c90549593.png,N/A,Parle
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,458397,Open Secret Flavoured Cashew - Namkeen Cream & Onion,951822,₹218,₹325,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/e315c900-7c58-4f43-a1e1-6f0ced7279b8.png,N/A,Open Secret
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,500758,Rajdhani Roasted Bhuna Chana,828878,₹45,₹60,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/1fcfbfbd-9c1a-4a32-bfed-f3f93e063c80.png,N/A,Rajdhani
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,512648,4700BC Himalayan Salt Crunchy Corn Nuts,2133787,₹60,₹60,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/4c3a9ab7-f6c4-40d8-9e51-00ea093c9bf5.png,N/A,4700BC
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,512649,4700BC Hawaiian Barbeque Crunchy Corn Nuts,2133789,₹50,₹50,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/512649a.jpg?ts=1679396120,N/A,4700BC
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,627010,Farmley Achari Chatka Flavoured Makhana,1907170,₹147,₹159,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/4116c793-a12f-4ad9-8284-4ad56b7b2cfb.jpg,N/A,Farmley
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,622439,Wheafree Gluten Free Namak Para,1885499,₹162,₹180,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/cee99b5a-f4f8-4c86-9426-5c3eb6637edf.jpg,N/A,Wheafree
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,428693,Cornitos Pop n Crunch Roasted Salted Pumpkin Seeds,1913017,₹248,₹250,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/f293bfe2-db45-4190-bddf-de86add5c94c.jpg?ts=1734437618,N/A,Cornitos Pop n Crunch
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,438506,Tong Garden Roasted Salted Seeds,1911057,₹161,₹175,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/257aa79a-45e1-4f4b-9a1b-9d9c8ad6c65f.jpg?ts=1707722608,N/A,Tong Garden
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,481198,Parle Chatkeen Sev Bhujia,856400,₹110,₹200,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/c4a4a55b-5a04-465a-81f3-594787372924.jpg?ts=1747886854,N/A,Parle
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,113264,Balaji Crunchem Simply Salted Wafers,802787,₹40,₹40,True,6,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2502632a-4638-40e9-961a-376fffdabe32.jpg?ts=1721124853,N/A,Balaji
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,56820,Daadi's Methi Khakhra,1912692,₹85,₹90,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1ec9b9d9-f7e1-4003-bed3-397e7b2c3341.jpg?ts=1708592759,N/A,Daadi's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546829,Jabsons Tikka Masala Coated Peanuts,817035,₹76,₹80,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ff7d54ea-210e-4ba8-adda-93620d4419bc.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,540448,Jabsons Tandoori Roasted / Bhuna Chana,783405,₹76,₹80,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/540448a.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,477184,Veerabhadra Murmura Laddu,519731,₹45,₹45,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/24b0fc85-85bf-44bd-9db5-d23ff24fa83c.jpg?ts=1708597803,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,500524,Let's Try Masala Namak Para,1400656,₹119,₹150,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/f2bd55f8-88e7-47a8-aa19-4d7879e0df1e.jpg?ts=1741158378,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,56719,Charlie's Masala Khakhra,1910254,₹58,₹60,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/702a3591-eae3-4fef-aa94-c5e34423a230.jpg?ts=1750923857,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,618332,"Shrego Roasted Peanuts, - Unsalted",1902823,₹449,₹500,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/25314be1-9d68-4d34-9069-74220fc20745.jpg,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,599404,Healthy Master Baked Bhakarwadi,1321603,₹299,₹420,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/adf03223-471a-4495-9f7b-3007a060053f.jpg?ts=1751975592,N/A,Healthy Master
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,544614,Anand Rice Kodubale Namkeen Snacks,2187027,₹120,₹120,True,0,False,http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/77ae8244-1bd2-47b9-a903-33451311b2cb.jpg?ts=1715229603,N/A,Anand
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,612632,"Rightcrunch Millet Crackers, Mathri",1492882,₹198,₹250,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/5b0d551c-0130-4d40-85a6-98e67ae9a357.jpg?ts=1738319030,N/A,Rightcrunch
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,597638,Rightcrunch Millet Crackers Bhakarwadi,1315139,₹198,₹250,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/336a2552-7101-4684-b06e-e1ebc23aa554.jpg?ts=1734951238,N/A,Rightcrunch
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,31130,616783,Shrego Nimbu Mirchi Pudina Roasted Chickpeas,1902832,₹195,₹200,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/c7a82b8e-64c7-4758-b033-94c1196abbb8.jpg,N/A,Shrego
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546179,Jabsons Flattened Green Grams Chatpata Moong Jor,828895,₹80,₹80,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3f947e97-f827-4c89-9061-995b4328d188.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,368821,Daadi's Bajra Methi Khakhra,679535,₹85,₹90,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/951d1106-0ba1-45d6-ba29-0d4d92ef6119.jpg?ts=1741079754,N/A,Daadi's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,546834,Jabsons Dry Samosa,817040,₹70,₹70,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/0ec1da67-7aca-44ab-98a5-cf2aae900db1.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,448094,To Be Honest Tangy Chickpea With Chilli & Lime Namkeen Snacks,856394,₹122,₹135,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/cc2b489b-7619-4c40-a924-50038819b72b.jpg?ts=1752061660,N/A,To Be Honest
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,554100,Daadi's Methi Namkeen Mathri,880104,₹118,₹135,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1178159b-ce6d-48b1-9ce0-6ec87626692a.jpg?ts=1716812065,N/A,Daadi's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,611896,Asha Chow Chow Namkeen,1409680,₹108,₹120,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/736dc395-8f31-49df-b38b-c5181cc70607.jpg?ts=1738234398,N/A,Asha
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,611891,Asha Til Murukku Namkeen,2144972,₹99,₹110,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/0bb95e3e-6531-48e3-ac9c-f4ae508e0ecb.jpg?ts=1738221234,N/A,Asha
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,634692,Chitale Mini Bhakarwadi,1938266,₹100,₹100,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/924526b8-7a8d-4ddf-a71d-d39845417e07.jpg,N/A,Chitale
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,425172,Charlie's Mahabaleshwar Bhuna Chana,1914917,₹58,₹60,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/b7d5b7e7-ff8e-4df7-ac1b-053db949b4ab.jpg?ts=1724923622,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,446890,Bikano Boondi,801604,₹59,₹60,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/d70cacb4-ec53-46c2-88d7-a41321017f8d.jpg?ts=1742294625,N/A,Bikano
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,56720,Charlie's Methi Khakhra,1912280,₹58,₹60,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/0ed605bb-483f-4dda-a07c-cb4bfc7ab473.jpg?ts=1750923863,N/A,Charlie's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,30771,633645,"Vyndo Methi Bajra Khakhra, Healthy Millet Snacks",2176773,₹198,₹198,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/5f878f24-8dc7-463b-bef0-f092118c745d.jpg,N/A,Vyndo
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,497893,Bingo Tedhe Medhe Cocktail Mixture Namkeen - Pack of 3,635956,₹100,₹150,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/db427138-170a-47c2-ab36-19eda203196e.jpg?ts=1728051380,N/A,Bingo Tedhe Medhe
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,443282,Udupi Munch Plain Murukku Namkeen,1914108,₹59,₹65,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a3d63b8a-d90d-41a4-be74-138fa1b9034c.jpg?ts=1725021220,N/A,Udupi Munch
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,544617,Anand Tangy Peanuts,844786,₹110,₹110,True,0,False,http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7015aab2-a1a8-4291-8ff3-edff60f812a3.jpg?ts=1715229609,N/A,Anand
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,556035,"Wah Luft Batata Sevpuri, Box - Pack of 2",1258205,₹347,₹350,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/08e72051-749d-4035-918b-fbfd634ca2aa.jpg?ts=1718175979,N/A,Wah Luft
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,544697,Haldiram's Snac Lite Soya Katori,806640,₹36,₹50,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fdeb9533-ff55-4858-b0dc-e343cd329f26.jpg,N/A,Haldiram's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,363863,Saravana's Onion Ring Fryums,1396501,₹32,₹55,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/363863a.jpg?ts=1690814666,N/A,Saravana's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,363860,Saravana's Fancy Fryums,1396497,₹27,₹45,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/363860a.jpg?ts=1690814147,N/A,Saravana's
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,567260,Let's Try Masala Boondi,1098539,₹97,₹120,True,0,False,http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8c179d48-42bd-49b5-9f53-5268e10e54ff.jpg?ts=1726215981,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Namkeen Snacks,29,36222,622442,Wheafree Gluten Free Mathi,1885612,₹180,₹200,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/d05fdaf1-9b63-414a-ac16-38b3b40df377.jpg,N/A,Wheafree
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,18925,Lijjat Punjabi Masala Papad,223837,₹89,₹89,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/c99ba260-93ab-4b1b-86cb-26896db62ac3.png,N/A,Lijjat
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,138835,Lijjat Plain Urad Dal Papad,1396473,₹77,₹77,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/4cba19d7-8a60-49c8-9598-669cb459cfd3.png,N/A,Lijjat
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,363859,Saravana's Pani Puri Papad,329410,₹35,₹60,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/9d71a56b-b76e-44bb-96ed-537e0c23b4ae.png,N/A,Saravana's
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,477192,Veerabhadra Salto Wheat Flower Fryums,1396503,₹45,₹45,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/6434752f-0bac-455d-9366-0c258bff82ba.png,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,501328,Ramji Pani Puri Papad,677464,₹34,₹45,True,12,False,https://cdn.grofers.com/da/cms-assets/cms/product/4084a9e5-08a8-4ffb-ac00-47cc808126e4.png,N/A,Ramji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,359086,Ambika No 5 Appalam Papad,1396996,₹107,₹107,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/5879ff4f-dc26-4e58-bd97-7d448f1396e2.png,N/A,Ambika
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,477196,Veerabhadra Sabudana Papad,547670,₹73,₹75,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/88abc991-b3aa-45a4-9fa6-2405c6427722.png,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,60434,Bikaji Baat Cheet Moong and Urad Dal Papad,1396467,₹129,₹135,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/6759d47c-b3ae-4ba6-9ed6-b91858d271c7.png,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,31130,567571,Saravana's Kerala Style Rice Papad,1396854,₹99,₹99,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/3cd5b3b6-ad30-4ad0-b4f1-14fb3008c3e9.png,N/A,Saravana's
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,28242,Mother's Recipe Rice Papad - Jeera,616744,₹25,₹25,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/f7b342b3-e293-4521-b3cf-a5580a380ada.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,477188,Veerabhadra Maka Flakes,547662,₹45,₹45,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/e8bbbfac-c893-4172-b003-5e42d8dab234.png,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,619214,Mother's Recipe Appalam Papad,1839498,₹45,₹50,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/1ab0e056-eaed-4a28-a0b1-fc844b068ede.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,481018,DNV Red Chilli Sabudana Papad,538575,₹21,₹50,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/5732b607-ba82-4a21-b384-cb8e034c15fb.png,N/A,DNV
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,611717,Anil Happala Appalam Papad,1403270,₹62,₹62,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/b0d6952f-3984-4f5c-99d9-5956d6e18a2b.png,N/A,Anil
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,31130,477197,Veerabhadra Salto Rice Papad,547671,₹64,₹65,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/86559804-e49c-4284-be48-f3eb281bd12f.png,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,363861,Saravana's Fryums,1396499,₹32,₹55,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/09736f75-75b0-4953-8c72-3a42107c9466.png,N/A,Saravana's
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,17503,Mother's Recipe Punjabi Masala Papad,223830,₹82,₹87,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/7e6b11f6-1d1b-4fc5-bd15-0b0013521336.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,501327,Ramji Net Fryums,677419,₹58,₹80,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/d0923205-52a5-452a-b773-032aa2d14773.png,N/A,Ramji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,60433,Bikaji Dil Khush Moong and Urad Dal Papad,1396465,₹133,₹140,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/3d3cf701-ad17-41bd-a015-5344b8d9cb22.png,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,19447,Mother's Recipe Chana Masala Papad,223840,₹80,₹85,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/c437f380-623f-4eed-bac3-bf9c71c2c2c4.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,476707,Iyer's Rice Papad - Buy1 Get 1 Free,224099,₹64,₹64,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/ceb07051-1e47-4ee9-9ad3-6e87f6b10f93.png,N/A,Iyer's
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,28241,Mother's Recipe Rice Papad - Ajwain,616414,₹25,₹25,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/3d235cee-21b5-4f84-b3c8-41d2c7ba8192.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,500884,Ramji Mix Fryums,676478,₹58,₹80,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/fd942d4a-bacd-4811-bfd4-d1610792aefe.png,N/A,Ramji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,17505,Mother's Recipe Urad Dal Papad,1396459,₹71,₹75,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/eedb4d4a-b3fa-469d-80df-7f4d7be12a27.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,19927,Mother's Recipe Sabudana Papad,223843,₹34,₹34,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/b948bd84-3469-4a2f-b4a9-889f24202d79.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,609556,Mother's Recipe Onion Fryums,2142479,₹34,₹34,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/a6e75275-6d53-47cb-ae99-6121f9142f3b.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,609537,Mother's Recipe Garlic Red Chilli Fryums,2142481,₹34,₹34,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/59038434-1bec-42ee-bd2c-fa3fc2ef35a6.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,28215,Mother's Recipe Green Chilli Garlic Papad,1396509,₹71,₹75,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/83094172-723a-43e1-bcfe-f332cb2c36f7.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,609553,Mother's Recipe Garlic Green Chilli Fryums,2142477,₹34,₹34,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/fac23909-2ecd-4068-b05c-cf8b8e56bfe3.png,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,70841,Iyer's Ring Fryums - Buy 1 Get 1 Free,223939,₹64,₹64,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/deaf29ef-c45b-4c7f-9380-cda230087500.png,N/A,Iyer's
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,547197,Ramji Sabudana Potato Papad,1396711,₹50,₹110,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5abc5fba-3850-4f06-92d0-4c77291a6a9c.jpg?ts=1715926114,N/A,Ramji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,500883,Ramji Wheel Fryums,676477,₹58,₹80,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e46433c4-01f3-453f-b5b8-83be8f1104ff.jpg?ts=1709714331,N/A,Ramji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,481015,DNV Classic Plain Dal Papad,1396477,₹60,₹75,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/481015a.jpg?ts=1688628165,N/A,DNV
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,546158,Ramji Sabudana Papad,814846,₹79,₹110,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/84381f14-f64b-4f2c-82a3-9c90e153ac10.jpg?ts=1714720708,N/A,Ramji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,546152,Ramji Mini Potato Papad,814839,₹79,₹110,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2a275586-1585-4643-ae36-a8a2bebfd72f.jpg,N/A,Ramji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,546154,Ramji Jeera Rice Papad,814841,₹45,₹99,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9ace9966-7366-4872-b51c-432d358804eb.jpg,N/A,Ramji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,567734,Sweet Karam Coffee Spicy Masala Papad,1103385,₹92,₹99,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/fb3cecb2-e76f-4f91-a929-29f71c7c9157.jpg?ts=1731910040,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,606938,Whole Farm Premium Moong Special Papad,1372266,₹59,₹100,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/9f3de03c-1782-4bc5-b029-283e428498c6.jpg?ts=1741003833,N/A,Whole Farm
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,481014,DNV Chana Masala Papad,538570,₹73,₹85,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/481014a.jpg?ts=1688628165,N/A,DNV
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,606930,Whole Farm Premium Punjabi Urad Dal Papad,1794258,₹40,₹100,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/e2f0f128-c9bb-4dd5-bdae-067688a8ad42.jpg?ts=1741003828,N/A,Whole Farm
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,481020,DNV Appalam Papad,538573,₹40,₹50,True,13,False,https://cdn.grofers.com/app/images/products/sliding_image/481020a.jpg?ts=1688628165,N/A,DNV
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,606932,Whole Farm Special Urad Dal Papad,1794264,₹59,₹100,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/4b08ffb0-c827-4139-89ae-3f0b233d92fa.jpg?ts=1741003830,N/A,Whole Farm
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,477193,Veerabhadra Salto Rings Fryums,1396505,₹45,₹45,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/477193a.jpg?ts=1687331860,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,481019,DNV Sabudana Papad,224021,₹43,₹50,True,5,False,https://cdn.grofers.com/app/images/products/sliding_image/481019a.jpg?ts=1687951096,N/A,DNV
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,477190,Veerabhadra Masala Sabudana Papad,1396427,₹73,₹75,True,3,False,https://cdn.grofers.com/app/images/products/sliding_image/477190a.jpg?ts=1688471935,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,18725,Mother's Recipe Potato Papad,223836,₹34,₹34,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/18725a.jpg?ts=1687948393,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,363863,Saravana's Onion Ring Fryums,1396501,₹32,₹55,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/363863a.jpg?ts=1690814666,N/A,Saravana's
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,363860,Saravana's Fancy Fryums,1396497,₹27,₹45,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/363860a.jpg?ts=1690814147,N/A,Saravana's
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,477198,Veerabhadra Masala Rice Papad,547672,₹64,₹65,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/477198a.jpg?ts=1688471935,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,100254,Ambika No 3 Appalam Papad,1396994,₹157,₹157,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/100254a.jpg?ts=1690817136,N/A,Ambika
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,500882,Ramji Tingo Fryums,676476,₹58,₹80,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/c1c7743b-2d20-43ef-adf5-e5fa7c10c08f.jpg?ts=1709714331,N/A,Ramji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,476715,Iyer's Papad Long Masala Papad - Buy1 Get 1 Free,1396844,₹99,₹99,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/ca70b1bf-78b2-49ca-9cca-d2f63e21a508.jpg?ts=1739866384,N/A,Iyer's
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,481017,DNV Punjabi Masala Papad,538574,₹76,₹85,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/481017a.jpg?ts=1688628165,N/A,DNV
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,481016,DNV Masala Papad,538572,₹61,₹75,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/481016a.jpg?ts=1688628165,N/A,DNV
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,476713,Iyer's Plain Dal Papad - Buy1 Get 1 Free,1396475,₹96,₹119,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/dae36c98-0759-4feb-836b-048ec260c7d2.jpg?ts=1741079798,N/A,Iyer's
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,606926,Whole Farm Premium Appalam Papad,1794255,₹36,₹100,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/67c3941c-41ac-45f6-84a6-440c28dd89ca.jpg?ts=1742190414,N/A,Whole Farm
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,91108,Bikaji Baat Cheet Dal Papad,1396471,₹295,₹310,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/f8047f1e-2f99-46fd-94ca-69f2d78271df.jpg?ts=1752744674,N/A,Bikaji
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,606937,Whole Farm Premium Moong Punjabi Papad,1366514,₹59,₹100,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/d2e0bc08-44d3-42c8-86b1-70ae059c0a5e.jpg?ts=1741003831,N/A,Whole Farm
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,476714,Iyer's Punjabi Masala Papad - Buy1 Get 1 Free,625213,₹108,₹135,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/6fcff0b1-4afe-4597-b10f-783c77cb982b.jpg?ts=1739866378,N/A,Iyer's
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,19448,Mother's Recipe Moong Dal Papad,1396461,₹71,₹75,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/19448a.jpg?ts=1688625383,N/A,Mother's Recipe
+
+21/07/2025,Munchies,1237,Papad & Fryums,80,36222,15558,Lijjat Moong Dal Papad,1396457,₹77,₹77,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/d9b349bc-c4a4-4afe-b130-75640f409e7b.png,N/A,Lijjat
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,673659,Natch Sesame Thai Rice Chips,2134611,₹268,₹295,True,1,True,https://cdn.grofers.com/da/cms-assets/cms/product/ecdf4031-f9d1-439d-90fc-16686ff19b86.png,N/A,Natch
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,289152,Lay's West Indies Hot n Sweet Chilli Flavour Potato Chips,782262,₹20,₹20,True,50,False,https://cdn.grofers.com/da/cms-assets/cms/product/b4992782-f47e-4fda-a0c6-4c9e422b9654.png,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,67372,Kurkure Masala Munch Crisps,1910366,₹20,₹20,True,50,False,https://cdn.grofers.com/da/cms-assets/cms/product/870a38da-a236-44f8-aa67-851f0adacbba.png,N/A,Kurkure
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,367837,Kurkure Puffcorn Yummy Cheese Puffs,1910340,₹20,₹20,True,44,False,https://cdn.grofers.com/da/cms-assets/cms/product/38f3be41-8612-44c0-9e54-69abedfb07a5.png,N/A,Kurkure
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,673289,Natch Thai Rice Chips - Wasabi,2188406,₹268,₹295,True,1,True,https://cdn.grofers.com/da/cms-assets/cms/product/1960e99d-7d5d-4b0f-a083-bb12c746582f.png,N/A,Natch
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,32465,Cheetos Cheez Puffs,656601,₹10,₹10,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/2c733020-1784-404c-a645-b3cddbf7d74c.png,N/A,Cheetos
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,57435,Lay's Classic Salted Potato Chips,561720,₹20,₹20,True,21,False,https://cdn.grofers.com/da/cms-assets/cms/product/f55e87f5-ecab-4d91-aca9-62883084374d.png,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,425715,Bingo Original Style Chilli Potato Chips - Pack of 3,535127,₹54,₹60,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/3176ed45-b618-4613-b387-a92a9f049c74.jpg,N/A,Bingo
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,577,Lay's Spanish Tomato Tango Potato Chips,438083,₹20,₹20,True,36,False,https://cdn.grofers.com/da/cms-assets/cms/product/c586c4d2-5b80-49f8-bd16-10c9c647c958.png,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,540666,Uncle Chipps Spicy Treat Potato Chips - Pack of 2,549752,₹75,₹100,True,40,False,https://cdn.grofers.com/da/cms-assets/cms/product/b1270555-2c46-4f4b-a170-9f0c03e8d925.png,N/A,Uncle Chipps
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,531031,Kurkure Schezwan Chutney Crisps,1333142,₹20,₹20,True,10,False,https://cdn.grofers.com/da/cms-assets/cms/product/3b4359b3-02cd-4c1d-bf2e-1ba90653678b.png,N/A,Kurkure
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,362400,Bingo Mad Angles Achaari Masti Crisps - Pack of 4,729488,₹70,₹80,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/e9948240-fc8b-4b37-93c9-208ca433eb3d.png,N/A,Bingo Mad Angles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,626568,Sweet Karam Coffee Mysore Masala Potato Chips,1905771,₹53,₹59,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/0751f552-20b5-4acf-84d0-838e09daa1b0.png,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,626542,Sweet Karam Coffee Madras Curry Leaves Potato Chips,1905773,₹53,₹59,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/7a48d24a-a561-4372-b7a3-c01978b2848a.jpg?ts=1742553359,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,626574,Sweet Karam Coffee Andhra Spicy Murukku,1905724,₹92,₹99,True,17,False,https://cdn.grofers.com/da/cms-assets/cms/product/068dcd7a-7ba7-4f9b-a4e6-2d9e54a19c40.jpg?ts=1743618363,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,599399,Healthy Master Baked Beetroot Chips,1321589,₹139,₹150,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/ebde4b4e-f6f8-4688-9a85-d89e014550c7.jpg?ts=1735404709,N/A,Healthy Master
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,632542,Crax Crunchy Noodle Puffs Chips,2099478,₹39,₹60,True,10,False,https://cdn.grofers.com/da/cms-assets/cms/product/8adb757c-144e-4d53-a85a-37bcd9e91708.jpg?ts=1752664309,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,438196,RiteBite Max Protein Peri Peri 10 g Protein Multigrain Chips,2130466,₹43,₹45,True,10,False,https://cdn.grofers.com/app/images/products/sliding_image/438196a.jpg?ts=1687330070,N/A,RiteBite
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,438197,RiteBite Max Protein Cream & Onion 10 g Protein Multigrain Chips,2130468,₹43,₹45,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/438197a.jpg?ts=1687949002,N/A,RiteBite
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,372150,Chheda's Yellow Banana Chips,1910717,₹78,₹100,True,19,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f7b3b2fa-b54d-40c5-849f-18e2c90babf3.jpg?ts=1712753393,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,58591,Chheda's Long Masala Banana Chips,1912762,₹80,₹95,True,27,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/80393334-436d-4090-b7b0-bcbeb2ce54e6.jpg?ts=1726837541,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,234248,RiteBite Max Protein Cheese & Jalapeno 10 g Protein Multigrain Chips,2130458,₹38,₹45,True,11,False,https://cdn.grofers.com/app/images/products/sliding_image/234248a.jpg?ts=1687949310,N/A,RiteBite
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,495687,Balaji Crunchem Masala Masti Wafers,802794,₹40,₹40,True,12,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/2b9604d1-4fc1-438a-b76a-f0ccbca44a03.jpg?ts=1721124927,N/A,Balaji
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,456094,RiteBite Max Protein Desi Masala 10 g Protein Multigrain Chips,2130478,₹43,₹45,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/456094a.jpg?ts=1687953673,N/A,RiteBite
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,593853,Fabeato Jack Fruit Chips,1258027,₹180,₹198,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/fbbd1fb7-454a-4179-a29f-16a7e8575f0e.jpg?ts=1736424285,N/A,Fabeato
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,593850,Fabeato Okra Chettinad Masala Chips,1853263,₹180,₹198,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/7e2fa20a-965d-4c85-bef9-f94e97536d8c.jpg?ts=1736424283,N/A,Fabeato
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,593842,Fabeato Okra Peri Peri Chips,1853261,₹180,₹198,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/d9a4194a-5ab2-4b77-877b-efbb75ada6e3.jpg?ts=1736424281,N/A,Fabeato
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,596144,Fabeato Sweet Potato Chips (Smokey BBQ),1329860,₹165,₹198,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/1f918e69-bb5b-4de7-817a-bf3bc179ed0a.jpg?ts=1736424290,N/A,Fabeato
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,593858,Fabeato Sweet Potato Chips (Mexican Cheese),1276198,₹165,₹198,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/199474dc-92c8-4bef-bf79-21948c495b5f.jpg?ts=1736424287,N/A,Fabeato
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,633249,Beyond Snack Kerala Banana Chips,2173134,₹80,₹80,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/49a34af6-c6f0-4f66-81c6-de20fd08cb0e.jpg?ts=1747394627,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,490861,Lay's Sizzling Hot Potato Chips - Pack of 3,537930,₹54,₹60,True,16,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/94eaf0e4-f627-41a9-8421-6f0d072cf6b6.jpg?ts=1716900846,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,482158,Bingo Original Style Chilli Sprinkled Potato Chips - Pack of 2,540425,₹75,₹100,True,10,False,https://cdn.grofers.com/da/cms-assets/cms/product/1a7484dd-aac1-43cf-8c9e-97f86feeb95c.jpg?ts=1741581773,N/A,Bingo
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,456093,RiteBite Max Protein Chinese Manchurian 10 g Protein Multigrain Chips,2130476,₹43,₹45,True,2,False,https://cdn.grofers.com/app/images/products/sliding_image/456093a.jpg?ts=1687953673,N/A,RiteBite
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,486104,Kettle Studio Lime & Chilli Banana Chips,2173143,₹99,₹99,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/cc377e4f-c759-4016-b511-bd6de77b235a.jpg?ts=1723099137,N/A,Kettle Studio
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,580,Bingo Mad Angles Tomato Madness Crisps,1910130,₹20,₹20,True,10,False,https://cdn.grofers.com/da/cms-assets/cms/product/14086a9e-bfe9-4c3a-adfb-5d6b7912e462.jpg?ts=1749548409,N/A,Bingo Mad Angles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,521877,Balaji Crunchex Chilli Tadka Potato Wafers,728436,₹40,₹40,True,13,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fbbde347-e0eb-4beb-8aad-a9af04498932.jpg?ts=1721124977,N/A,Balaji
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,617002,Beyond Snack Kerala Salt & Pepper Banana Chips,1838074,₹57,₹60,True,8,False,https://cdn.grofers.com/da/cms-assets/cms/product/4944a89d-f699-4370-8f9a-31425ea67efb.jpg?ts=1747715407,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,609202,Unibic Lentil & Pea Masala Twist Pop Crisps,1391414,₹36,₹50,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/2d3418ff-70d6-4f1a-bfd1-4f0d64a99fe6.jpg?ts=1740554583,N/A,Unibic
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,609194,Unibic Rice & Beans Pop Crisps,1391409,₹36,₹50,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/e46582f9-24b4-42f8-873c-c899e921e0af.jpg?ts=1740554577,N/A,Unibic
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,609568,Unibic Potato Pop Crisps,1903801,₹36,₹50,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/80656ed1-d74d-4108-ba39-2c06dcb31571.jpg?ts=1740554589,N/A,Unibic
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,609193,Unibic Sweet Chilli Millet Pop Crisps,984033,₹36,₹50,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/e99529ae-a9aa-4c67-83b4-1289e903abae.jpg?ts=1740554571,N/A,Unibic
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,630109,Crax Crunchy Pipes Masala Puffs Snacks,2099472,₹39,₹60,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/802a52ca-eb0e-424a-a8fb-267270b30018.jpg?ts=1751454848,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,630107,RiteBite Max Protein Cream & Onion 20 g Protein Multigrain Chips,2130494,₹90,₹119,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/743bd5bd-6056-43ad-9160-efa8c401b550.jpg,N/A,RiteBite
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,629757,RiteBite Max Protein Peri Peri 20 g Protein Multigrain Chips,2130492,₹90,₹119,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/512fa00c-b837-4677-8a56-1c5182b5d836.jpg,N/A,RiteBite
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,632340,Crax Korean Ramen Noodle Puffs Chips,1990923,₹30,₹60,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/c7881103-3657-47d1-93a3-68802b9cd491.jpg?ts=1752664306,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,23693,Piknik Classic Tomato Chilli Soya Sticks,1911783,₹42,₹60,True,31,False,https://cdn.grofers.com/da/cms-assets/cms/product/4494c16f-1e4e-4d1e-aa60-816adb43a9fe.jpg?ts=1740372599,N/A,Piknik
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,481420,Snackible Peri Peri Ragi Chips,1257529,₹48,₹50,True,18,False,https://cdn.grofers.com/da/cms-assets/cms/product/9a6c7a20-0c65-45ea-ad9d-4f16a9258ad5.jpg?ts=1746613159,N/A,Snackible
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,629984,Pringles Grab 'N' Go Desi Masala Tadka Potato Chips,1927097,₹57,₹60,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/da5802c5-7b29-4334-9a94-a685a2f5143c.jpg,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,67346,Bingo Mad Angles Masala Madness Crisps,1910097,₹20,₹20,True,20,False,https://cdn.grofers.com/da/cms-assets/cms/product/7a83b33d-7eac-41f3-8aa3-c810e3ff7a67.jpg?ts=1749548384,N/A,Bingo Mad Angles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,669699,Bingo Tedhe Medhe Xtraa Teekha Crisps,2099118,₹18,₹20,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/b7b934af-b99b-424b-811c-1fcc570fc2b3.jpg,N/A,Bingo Tedhe Medhe
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,670477,Bingo Mad Angles Mystery Pickle Crisps,2104818,₹45,₹50,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/a3f74813-f23b-4cce-95af-2c73ddc3b83b.jpg,N/A,Bingo Mad Angles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,88366,Balaji Crunchem Cream & Onion Wafers,802791,₹40,₹40,True,7,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a12a4d48-99e6-4cc0-b7d1-9a0651f6963a.jpg?ts=1721124809,N/A,Balaji
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,534449,Uncle Chipps Plain Salted Potato Chips,634986,₹40,₹50,True,38,False,https://cdn.grofers.com/app/images/products/sliding_image/534449a.jpg,N/A,Uncle Chipps
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,439148,Lay's Classic Salted Flavor Potato Chips - Pack of 2,535151,₹80,₹100,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/3cdadb0b-0015-493b-9efd-8239f62e2fe2.jpg?ts=1741587468,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,555598,"VS Mani & Co. Salted Hot Potato Chips, No Palm Oil",1227360,₹54,₹75,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/49df6be5-30a9-43c0-8a3f-a32cb2b51755.jpg?ts=1734330678,N/A,VS Mani & Co.
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,432779,Lay's India's Magic Masala Potato Chips (80 g),2163361,₹45,₹50,True,32,False,https://cdn.grofers.com/da/cms-assets/cms/product/1dfb3c56-4dcb-40b6-813e-a93f7fe1b15a.jpg?ts=1751367739,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,481897,Beyond Snack Kerala Original Style Banana Chips - Pack of 2,468385,₹108,₹120,True,15,False,https://cdn.grofers.com/da/cms-assets/cms/product/0cec8e94-89b7-4225-abbf-62b920b69672.jpg?ts=1747394276,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,557130,Snackible Desi Masala Ragi Chips,1257531,₹48,₹50,True,13,False,https://cdn.grofers.com/da/cms-assets/cms/product/eb0e7f01-75fb-4832-a472-76607077bca4.jpg?ts=1746613171,N/A,Snackible
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,384139,Snackible Dipsters Piri Piri Ragi Chips with Cheesy Jalapeno Dip,1257530,₹48,₹50,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/d2839527-d656-4f0c-88ef-b90a0bdcb900.jpg?ts=1746087007,N/A,Snackible
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,520007,Yellow Diamond Cream N Onion Potato Chips,722946,₹27,₹50,True,4,False,https://cdn.grofers.com/app/images/products/sliding_image/520007a.jpg,N/A,Yellow Diamond
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,596041,Yellow Diamond Spicy Korean Potato Chips,1283912,₹36,₹50,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/90f099aa-ee15-42ef-a5a0-551a47778fd7.jpg?ts=1734436756,N/A,Yellow Diamond
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,549103,Yellow Diamond Sizzling Cheese Potato Chips,837094,₹35,₹50,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/ec1c3f46-9dec-4f61-836f-33e617e4eedb.jpg?ts=1714653729,N/A,Yellow Diamond
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,615815,Jabsons Salted Banana Chips,1734290,₹80,₹80,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/424b3397-7e64-4d5c-9961-e37e3a2437d2.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,520009,Yellow Diamond Classic Salted Potato Chips,722947,₹36,₹50,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/520009a.jpg,N/A,Yellow Diamond
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,591789,Snackible Salted Banana Chips,1276017,₹54,₹60,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/4081b013-9412-4a5c-bbfa-76a20068d97d.jpg?ts=1746087345,N/A,Snackible
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,549102,Yellow Diamond Piri Piri Chips,826316,₹35,₹50,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/fbabe079-9b4d-457f-8a22-c74d82d1d143.jpg?ts=1714653728,N/A,Yellow Diamond
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,615814,Jabsons Original Aloo Lachha,1734287,₹80,₹80,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/1e782953-4546-4a4c-ad74-211982a88820.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,549105,Yellow Diamond Plain Salted Pipe Puffs,1937591,₹27,₹50,True,6,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d8e23600-a5a1-45d6-aef7-5950a8393ffb.jpg?ts=1714653729,N/A,Yellow Diamond
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,596067,Yellow Diamond Cheese Puff Corn,1922999,₹29,₹50,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/a52333fe-3302-4357-9976-c42f68ad3b7f.jpg?ts=1734436781,N/A,Yellow Diamond
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,555913,Pringles Sour Cream & Onion Potato Chips (40 g) - Pack of 2,825490,₹110,₹120,True,7,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/090f7781-34b8-45f3-a6f8-667cb9e8a35a.jpg?ts=1718097827,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,524861,Crax Curls Chatpata Masala Puffs Snacks,2148026,₹39,₹60,True,12,False,https://cdn.grofers.com/da/cms-assets/cms/product/8e265c1f-6306-4422-8f92-51861a1cf49f.jpg?ts=1750925481,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,604145,7 Diamonds Garlic & Herb Puffs,1937600,₹50,₹50,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/ce47aed9-d15c-4b18-b9fc-78d08f192132.jpg?ts=1736510480,N/A,7 Diamonds
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,596058,7 Diamonds Roasted Peanut Butter Puffs,1937604,₹50,₹50,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/62d3d889-e669-4d53-8191-0d3e607d1078.jpg?ts=1739251704,N/A,7 Diamonds
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,477182,Veerabhadra Banana Chips,519729,₹64,₹65,True,21,False,https://cdn.grofers.com/app/images/products/sliding_image/477182a.jpg?ts=1688471934,N/A,Veerabhadra
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,524102,Kurkure Green Chutney Crisps - Pack of 3,616423,₹54,₹60,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/a6a21e4e-7f2a-45d6-aaba-e13a929fc0cd.jpg?ts=1743065802,N/A,Kurkure
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,318777,Chheda's Salt-n-Pepper Banana Chips - 170 g,771471,₹65,₹85,True,12,False,https://cdn.grofers.com/app/images/products/sliding_image/318777a.jpg?ts=1687243864,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,571716,Cheetos Masala Balls Crisps - Pack of 3,807964,₹104,₹150,True,11,False,https://cdn.grofers.com/da/cms-assets/cms/product/b236857f-c92a-468a-992e-ae259afd2e1a.jpg?ts=1741581823,N/A,Cheetos
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,495688,Balaji Crunchem Tomato Twist Wafers,802788,₹40,₹40,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/47fe88a4-988c-4d11-94db-224d4fadcc02.jpg?ts=1721124936,N/A,Balaji
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,518849,Kurkure Playz Puffcorn Yummy Cheese Puffs - Pack of 2,779594,₹69,₹100,True,8,False,https://cdn.grofers.com/da/cms-assets/cms/product/6609b15c-fcdf-4071-b4b4-50087fb7eb66.jpg?ts=1742978149,N/A,Kurkure
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,481992,Bingo Baked No Rulz Masala Curlz Puffs - Pack of 2,450129,₹50,₹100,True,9,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e9ad7711-07df-4cee-8771-dcf98882650f.jpg?ts=1728051348,N/A,Bingo
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,478813,Lay's Wafer Style - Red Chilli Potato Chips,2137946,₹20,₹20,True,24,False,https://cdn.grofers.com/da/cms-assets/cms/product/f856898e-e82f-4ee3-952e-711ca0bd3dc0.jpg?ts=1749645710,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,555914,Pringles Original Potato Chips (40 g) - Pack of 2,825491,₹110,₹120,True,6,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/68547a66-cfb4-4c1c-bd19-7e030cada974.jpg?ts=1718097836,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,623528,Open Secret Un-Junked Cheese Puff,1899163,₹69,₹75,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/60fcb77a-3c77-4dca-b3c0-87bc91858dc5.png,N/A,Open Secret
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,623530,Open Secret Un-Junked Cream & Onion Puff,1899183,₹69,₹75,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/d33edbb7-3921-46cc-a25c-5fcf7e76f6e7.png,N/A,Open Secret
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,458323,Crax Corn Rings Tangy Tomato Puff Snacks,2099463,₹25,₹25,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/ec61f201-3781-48a6-8f3a-594812b07744.png,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,458326,Crax Pasta Crunch Chinese Tadka Puffs Snacks,2099402,₹25,₹25,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/165cebf5-ab50-4581-abd3-ee888143f931.png,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,545837,Crax Corn Rings Chatpata Masala Puffs Snacks - Combo of 3,2119937,₹75,₹75,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/c04bb50f-5ef9-4662-b00a-8a0aa3bc14a5.png,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,536633,Too Yumm Spicy Chilli Bhoot Potato Chips (Bhut Jolokia Chillies),2177364,₹49,₹60,True,16,False,https://cdn.grofers.com/da/cms-assets/cms/product/4e64428e-502e-438c-9945-57ee5bc8b96c.png,N/A,Too Yumm
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,407554,Bingo Mad Angles Achaari Masti Crisps,1913109,₹40,₹50,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/008bed25-4bcd-47b8-a94e-f34614023484.png,N/A,Bingo Mad Angles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,676112,Crax Zero Masala Punch Potato Chips,2144990,₹39,₹50,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/bf86ea39-38ae-488c-862a-d2f85ca2a0c7.png,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,676203,Crax Zero Simply Salted Potato Chips,2144960,₹39,₹50,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/a5a437ea-2e94-4002-b728-08ca2183f1c5.png,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,669637,Bingo Popped Salt n Pepper Potato Chips,2119881,₹45,₹50,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/6abb203e-7a81-4bf2-9ee3-82a32165e5ba.png,N/A,Bingo
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,458322,Crax Corn Rings Masala Mania Puffs Snacks,794807,₹25,₹25,True,13,False,https://cdn.grofers.com/da/cms-assets/cms/product/e73fe1df-5dd0-43bb-bff1-343be6f8bccd.png,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,493310,Pringles Pizza Flavoured Potato Chips - Pack of 2,628558,₹200,₹250,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/69faf3de-9390-4516-a8eb-d671cf750189.png,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,534457,Lay's West Indies Hot 'n' Sweet Chilli Potato Chips,800395,₹45,₹50,True,16,False,https://cdn.grofers.com/da/cms-assets/cms/product/bcfc6c5c-49b0-4097-88fc-3881365d7af9.png,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,521878,Balaji Rumbles Pudina Twist Potato Wafers,728438,₹40,₹40,True,10,False,https://cdn.grofers.com/da/cms-assets/cms/product/89b6325b-42f1-4ba4-96f3-89d4248abd96.png,N/A,Balaji
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,481899,Beyond Snack Kerala Peri Peri Banana Chips - Pack of 2,468386,₹108,₹120,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/d5976282-a131-4bfe-a7da-8f31b021a45a.png,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,548119,Sweet Karam Coffee Kerala Tapioca Chips - Indian Masala,911161,₹69,₹69,True,7,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f2049b12-3f6e-4867-baa2-ef9c68d1725e.jpg,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,543972,Beyond Snack Banana Chips (Rock Salt),1865876,₹75,₹75,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/155ba474-7a7f-4855-a832-2b9bf6610775.jpg?ts=1747394576,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,439142,Lay's American Style Cream & Onion Flavour Potato Chips - Pack of 2,438084,₹80,₹100,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/899b9f20-466f-400f-871c-8fa6b57b448a.jpg?ts=1741586743,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,488048,Pringles Sour Cream & Onion Potato Chips 134 g,1961145,₹144,₹190,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/576ee28d-2539-4c00-bc87-975dd7f67f76.jpg?ts=1739365411,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,518856,Bingo Hashtags Spicy Masala Potato Chips - Pack of 2,676210,₹45,₹60,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9cd33036-75f2-4791-9c29-3f704afc7a08.jpg?ts=1728051425,N/A,Bingo Hashtags
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,490860,Lay's Wafer Style - Salt with Pepper Potato Chips - Pack of 3,534395,₹54,₹60,True,15,False,https://cdn.grofers.com/da/cms-assets/cms/product/ccc1733a-e744-4c4a-803c-965ddaead9f8.jpg?ts=1748432956,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,543971,Bingo Original Hot & Spicy Korean Style Potato Chips,800823,₹40,₹50,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1f69215b-58d1-40f9-ab92-062168b9be60.jpg,N/A,Bingo
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,377079,Pringles South African Peri Peri Chips - Pack of 2,351207,₹213,₹250,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/7acef3c5-ccfe-46dd-88e9-e7b08aeb7075.jpg?ts=1733991563,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,425129,Haldiram's Nagpur Halke Fulke Salted Potato Chips,535146,₹30,₹30,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/41ab681f-0e14-429f-bf4b-d36330e0a821.jpg?ts=1708593040,N/A,Haldiram's Nagpur
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,588507,Lay's Wafer Potato Chips (Red Chilli),1276114,₹38,₹50,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/0450f47f-90c6-4fba-9314-5466a8f4fb3d.jpg?ts=1748432973,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,482724,Modern Kitchens Salted Banana Chips,551048,₹48,₹60,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/cc50cfa9-19d5-4013-ab73-f4ed77d9e15c.jpg?ts=1735896943,N/A,Modern Kitchens
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,588505,Lay's Wafer Potato Chips (Salt & Pepper),1276113,₹38,₹50,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/d964ab50-5178-436e-b596-694c9c5eb0e2.jpg?ts=1748432965,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,544100,Bingo Hashtags Hot & Spicy Korean Style Chips,800466,₹24,₹30,True,5,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/3e5191ae-3820-4e9a-9bf7-7791cf7a4d3e.jpg,N/A,Bingo
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,439155,Lay's Spanish Tomato Tango Flavor Potato Chips - Pack of 2,535152,₹80,₹100,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/3d1a226e-fc0f-4a56-871c-d1e68182d548.jpg?ts=1741587258,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,570371,Let's Try Lite Snack Sticks,1155961,₹42,₹60,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/495dc301-e3c0-4531-94fd-8e50e6fc65f1.jpg?ts=1741158429,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,546583,Crax Crunchy Pipes Puffs Snacks,2148022,₹39,₹60,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/0da3a7c5-a600-494d-8e2d-a858d2697a4e.jpg?ts=1752664290,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,499475,BRB Potato Popped Chips (Spicy Chipotle Flavour),1237650,₹39,₹40,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/b95a50fa-202d-4e33-8088-87ec6c468103.jpg?ts=1747226312,N/A,BRB
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,522648,Lay's American Style Cream & Onion Potato Chips (143 g),1030713,₹67,₹78,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/74462f6c-60fd-4975-a171-f15ab94cf6f1.jpg?ts=1721136738,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,521876,Balaji Crunchex Simply Salted Potato Wafers,728435,₹40,₹40,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e802fd97-4502-41dc-896e-36824f1f20c3.jpg?ts=1721124968,N/A,Balaji
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,589245,Crax Fritts Peri Peri Corn & Potato Sticks Snacks,2148112,₹30,₹60,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/169d88bb-b85a-492a-9adf-39782b52d1f8.jpg?ts=1749109982,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,488047,Pringles Original Potato Chips 134 g,1961159,₹155,₹190,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/070d69d2-1021-4f88-b04a-8a8e465ce7bc.jpg?ts=1739875656,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,498772,Taali Roasted Protein Puffs (Smoky Barbeque),2156644,₹54,₹59,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/d4300299-a91d-4213-a825-9dd8bc072292.jpg?ts=1743580075,N/A,Taali
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,499903,4700BC Cheese & Herbs Corn Popped Chips +,792092,₹50,₹50,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/0a129faa-382d-4209-b2fd-8b5d69a19c1b.jpg?ts=1752128788,N/A,4700BC
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,407555,Bingo Mad Angles Very Peri Peri Crisps,1914337,₹38,₹50,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/f7e089ee-786a-4049-8567-4012b3d87571.jpg?ts=1749548349,N/A,Bingo Mad Angles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,548001,Modern Kitchens Hot Chips Salted,843633,₹59,₹70,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/c08d28e3-dd20-4df9-a9e8-b94dd5f6cdb1.jpg?ts=1751271833,N/A,Modern Kitchens
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,548214,Mille Cheese Balls - Pack of 2,2152962,₹67,₹118,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d9e39221-be7a-4222-9785-0f7eb89bef64.jpg,N/A,Mille
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,591982,Cornitos Crusties Puffs Korean Chilli Flavour,2080739,₹54,₹60,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/475ecc93-79ed-4b29-86cd-47f60c0af95a.jpg?ts=1747653494,N/A,Cornitos
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,589244,Crax Curls Cheese Delight Puffs Snacks,2099383,₹30,₹60,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/a48730e3-296a-4f30-9ec1-8734df8f0b21.jpg?ts=1751269262,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,482725,Modern Kitchens Spicy Banana Chips,551046,₹48,₹60,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/a9722e4f-915a-4193-9ca4-2e72b87d9fdb.jpg?ts=1735896950,N/A,Modern Kitchens
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,499901,4700BC Hawaiian Barbeque Corn Popped Chips +,792093,₹50,₹50,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/c4b22e2c-599e-4406-87c0-9bf8ffb585d8.jpg?ts=1752128778,N/A,4700BC
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,499614,BRB Potato Popped Chips (Pasta Cheese Flavour),1237648,₹39,₹40,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/57156b30-3cb2-42fa-93c5-e0566af8dcb4.jpg?ts=1747226327,N/A,BRB
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,372151,Chheda's Tomato Banana Chips,1910735,₹69,₹85,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f403fec7-6c14-480b-90fd-fbc37c27d7cd.jpg?ts=1725535978,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,608544,Modern Kitchens Wheel Chips,1376402,₹37,₹60,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/5ccc8c75-d2ab-446b-bd3d-3529965d109a.jpg?ts=1737462354,N/A,Modern Kitchens
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,513007,Let's Try Pudina Potato Wafers,700100,₹54,₹60,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/4ab1f170-b459-4fbe-8d26-8236471a87f8.jpg?ts=1741158391,N/A,Let's Try
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,539465,Beyond Snack Desi Masala Kerala Banana Chips - Pack of 2,717529,₹108,₹120,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/f0d901bc-bf52-4806-87a7-20e47a35a70d.jpg?ts=1747394506,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,403226,Peppy Tomato Discs Crisps,1910553,₹42,₹60,True,5,False,https://cdn.grofers.com/app/images/products/sliding_image/403226a.jpg?ts=1688470764,N/A,Peppy
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,477339,Kari Kari Chilli Garlic Snack,2094466,₹100,₹120,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/f4a2af66-75b6-4439-8dba-0d0058ae45e3.jpg?ts=1740387388,N/A,Kari Kari
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,518731,Crax Masala Punch Potato Chips Snacks,2148124,₹35,₹50,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e4af0ebe-64b7-4b01-b5f1-f0ea3ddadd3b.jpg?ts=1708330364,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,519111,Beyond Snack Original Style Kerala Banana Chips,718245,₹88,₹95,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/e2f36da9-102e-4209-8f0b-1632eb7b82be.jpg?ts=1747394419,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,519457,Beyond Snack Salt & Black Pepper Kerala Banana Chips,717528,₹88,₹95,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/3b9aacea-20d3-40dd-b870-9a3710c6ab04.jpg?ts=1747394423,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,481898,"Beyond Snack Kerala Sour Cream, Onion & Parsley Banana Chips - Pack of 2",468387,₹108,₹120,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/4ab6bf8d-27fd-4d57-a88a-8eee6ee581a5.jpg?ts=1747394286,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,81328,Garden Yellow Banana Chips,1911819,₹95,₹99,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5e69ca00-7321-49fd-9bcf-38df6f9f4933.jpg?ts=1713250595,N/A,Garden
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,486854,Pringles Desi Masala Tadka Potato Chips - Pack of 2,535145,₹213,₹250,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/d03f2b12-4595-4092-964c-db3429252c97.jpg?ts=1739875648,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,448089,To Be Honest Purple Sweet Potato Chips with Pani Puri Masala,750440,₹88,₹110,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/aa5addde-5a5c-43c7-a425-32272ed55730.jpg?ts=1752061650,N/A,To Be Honest
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,567870,Too Yumm XoXo Chips Bold Tomato,1104701,₹45,₹60,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/de8b6ba1-888d-4e12-9f61-e81ff732aabb.jpg?ts=1726030522,N/A,Too Yumm
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,448088,To Be Honest Sweet Ripe Banana Chips with Amchur & Chilli,535289,₹99,₹110,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/cf6ad8e0-1862-4692-8fdb-766f7fe227ce.jpg?ts=1752061648,N/A,To Be Honest
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,480702,Kari Kari Sesame Soy Snack,2094470,₹100,₹120,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/c1811703-2478-4040-885e-e19b0ba7ed6a.jpg?ts=1740387392,N/A,Kari Kari
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,567699,Too Yumm Smoking Hot Bhoot Karare Crisps (Bhut Jolokia Chillies),1876146,₹19,₹20,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/27253e4e-b4f4-4365-8337-f78b628bdf62.jpg?ts=1751544170,N/A,Too Yumm
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,601802,Piknik Cheese & Chilli Pops,1328368,₹39,₹60,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/05b3e913-baf1-4abb-ac88-b54c8aad1d15.jpg?ts=1736167616,N/A,Piknik
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,547530,Banner & Co Sweet Sriracha Popped Chips,820876,₹49,₹70,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/8ed8bf77-4d11-41b2-b9c0-ed4d94e7ef21.jpg?ts=1722859031,N/A,Banner & Co
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,520321,Nutty Yogi Ragi Snacks Crisps,1462216,₹258,₹258,True,4,False,https://cdn.grofers.com/app/images/products/sliding_image/520321a.jpg,N/A,Nutty Yogi
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,547729,Sweet Karam Coffee Nendran Banana Chips,821641,₹64,₹69,True,33,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/50ab2031-e810-46cc-be2d-6776038c7773.jpg,N/A,Sweet Karam Coffee
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,601799,Piknik Jalapeno Pops,1328366,₹39,₹60,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/6fc2309b-6f13-4683-adb8-89ee1f70c229.jpg?ts=1736167613,N/A,Piknik
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,547515,Banner & Co Hot Truffle Popped Chips,820825,₹70,₹100,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e982c3f0-e03d-45f6-b982-4e4e2611091f.jpg,N/A,Banner & Co
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,455873,Too Yumm Kashmiri Chilli Potato Chips,534057,₹45,₹50,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/259f3586-7394-4dde-8327-8bc8830976b8.jpg?ts=1751544016,N/A,Too Yumm
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,525232,BRB Peri Peri Rice Popped Chips - Pack of 3,723427,₹111,₹120,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/3842d899-dddc-41b4-861e-ff402f2b21b4.jpg?ts=1747226766,N/A,BRB
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,477340,Kari Kari Salt Pepper Snack,2094468,₹100,₹120,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/3104b1a5-4caf-4d01-b850-514e260a5161.jpg?ts=1740387390,N/A,Kari Kari
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,447335,Too Yumm Baked Tomato Thunder Rings Crisps,989066,₹49,₹60,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a531dfec-b492-4a87-a757-10e0fee5cd24.jpg?ts=1716793391,N/A,Too Yumm
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,30771,588878,TummyFriendly Foods Roasted Millet Peri Peri Masala Mixture Namkeen,2049160,₹199,₹299,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/076dae15-b6dd-4714-b631-752b4e0ce12c.jpg?ts=1732872284,N/A,TummyFriendly Foods
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,547527,Banner & Co Sour Cream & Onion Popped Chips,820875,₹49,₹70,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/53135027-1456-4091-bd37-243e8bf2c0a5.jpg?ts=1712574500,N/A,Banner & Co
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,30771,588884,TummyFriendly Foods Roasted Millet Desi Masala Mixture Namkeen,2049162,₹199,₹299,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/0ce70364-d9e8-40fa-83ac-0225da37c17b.jpg?ts=1732872294,N/A,TummyFriendly Foods
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,581779,Beyond Snack Kerala Banana Chips Puspha 2 Fire Edition,1246472,₹37,₹75,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/b6afe411-ada5-4971-939d-5d00b90b0bc2.jpg?ts=1731401394,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,664553,Too Yumm Classic Salted Nendran Banana Chips,2173136,₹69,₹75,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/ef2a9349-d98d-4c1f-9aa2-d6f7b9efe85b.jpg?ts=1749211062,N/A,Too Yumm
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,664557,Too Yumm Masala Nendran Banana Chips (No Palm Oil),2173138,₹69,₹75,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/e73f6a80-6202-45e2-bfc6-aa6778883310.jpg?ts=1749211074,N/A,Too Yumm
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,664563,Too Yumm Spicy Korean Nendran Banana Chips,2173140,₹69,₹75,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/aa9a3218-9b82-4084-b4b8-7fcaf0a9f5df.jpg?ts=1749211085,N/A,Too Yumm
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,519456,"Beyond Snack Sour Cream, Onion & Parsley Kerala Banana Chips",718249,₹88,₹95,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/e4f295c2-6cd5-4541-a22f-b73f2246bc51.jpg?ts=1747394421,N/A,Beyond Snack
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,548133,Tong Garden Salted Cassava Chips,823391,₹100,₹100,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/73c9272f-3cb6-45ca-a9e9-1720de61fbea.jpg,N/A,Tong Garden
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,127891,Peppy Cheese Balls,1911736,₹42,₹60,True,7,False,https://cdn.grofers.com/app/images/products/sliding_image/127891a.jpg?ts=1687324806,N/A,Peppy
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,521539,Crax Cheese Balls Puff Snacks,2119932,₹39,₹60,True,8,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1dabfa52-ffb5-46c9-9409-8c736d4c7763.jpg?ts=1708330364,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,588849,Troovy Healthy High Protein Ragi Chips,1314548,₹44,₹70,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/96d7ee84-49bb-47f1-a776-baee95bda78e.jpg?ts=1743159504,N/A,Troovy
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,557055,Haldiram's Sour Cream & Onion Chips,193479,₹36,₹50,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6d64170a-0516-40f6-89cf-71cc9549784f.jpg?ts=1723799022,N/A,Haldiram's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,628623,Healthy Master Baked Jowar Chips,1918820,₹249,₹350,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/7c45447a-2a26-46f9-abc1-acb16ac97c9d.jpg,N/A,Healthy Master
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,624294,Healthy Master Baked Oats Chips,1898439,₹139,₹150,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/96d695af-0637-47d4-8c2a-d17f512db6de.jpg,N/A,Healthy Master
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,628586,Healthy Master Baked Palak Chips,1909558,₹249,₹350,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/5cd16419-d7ba-4344-834c-a5a249a9b544.jpg,N/A,Healthy Master
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,604307,Healthy Master Baked Ragi Chips,1339364,₹139,₹150,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/b79d4cfb-a053-4321-b09a-523f0fec9edf.jpg?ts=1736510615,N/A,Healthy Master
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,630562,Healthy Master Quinoa Millet Chips,1926384,₹249,₹350,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/786f2c93-b2db-4b07-a749-009baa71d491.jpg?ts=1748521161,N/A,Healthy Master
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,653056,Healthy Master Light & Crispy Chips,2026917,₹599,₹780,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/91ea273c-8996-4c06-af14-607b0cfc4c60.jpg,N/A,Healthy Master
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,448087,To Be Honest Mixed Sweet Potato with Rock Salt & Pepper Chips,534034,₹88,₹110,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/3a39b7ce-a6e9-4758-8f6b-6187607accf7.jpg?ts=1752061643,N/A,To Be Honest
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,475383,To Be Honest Purple Sweet Potato Chips with Pani Puri Masala - Pack of 2,817647,₹174,₹220,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/3a8a7e2f-ef0a-4064-aaed-b28fa8df1e33.jpg?ts=1742469282,N/A,To Be Honest
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,650002,SuperYou Multigrain Cheese & Tomato Chips,1983887,₹45,₹50,True,27,False,https://cdn.grofers.com/da/cms-assets/cms/product/9f754aa1-15b2-49d6-8184-3ec0b13501de.jpg?ts=1752647423,N/A,SuperYou
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,649981,SuperYou Multigrain Pudina Chips,2082234,₹45,₹50,True,14,False,https://cdn.grofers.com/da/cms-assets/cms/product/28254f38-7d5e-4bad-ba57-04f1435d337d.jpg?ts=1752647336,N/A,SuperYou
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,650010,SuperYou Multigrain Sour Cream & Onion Chips,1983896,₹45,₹50,True,19,False,https://cdn.grofers.com/da/cms-assets/cms/product/f12b2a6a-53a4-4bee-bdc5-c9275cfaa082.jpg?ts=1752647366,N/A,SuperYou
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,649989,SuperYou Multigrain Super Masala Chips,1990690,₹45,₹50,True,47,False,https://cdn.grofers.com/da/cms-assets/cms/product/931bb59d-63ba-473c-bcea-65a062f10bd8.jpg?ts=1752647346,N/A,SuperYou
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,601930,Healthy Master Baked Jowar Chips,1328519,₹139,₹150,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/ff6be6a7-f07c-4e7c-8ec0-fdc847222c2e.jpg?ts=1736308338,N/A,Healthy Master
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,630813,RiteBite Max Protein Cheese & Jalapeno 20 g Protein Multigrain Chips,2130504,₹114,₹119,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/03aec01e-76d5-47c4-89e8-ea3fc528261b.jpg,N/A,RiteBite
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,432777,"Lay's Potato - Spanish Tomato Tango Flavor, 78gm Chips",561716,₹30,₹30,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/2c0d264d-aa61-415a-9bdb-09c1081e0110.jpg?ts=1749620858,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,548134,Tong Garden Mixed Root Sea Salt Chips,827061,₹100,₹100,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/bba6eca0-8068-4371-93a1-bd031abdef38.jpg,N/A,Tong Garden
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,588875,Troovy Healthy High Protein Mix Veggie Chips,1314555,₹70,₹70,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/bcb2975d-8903-4feb-af70-d112415662d3.jpg?ts=1743159513,N/A,Troovy
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,588816,Troovy Healthy High Protein Moong Dal Chips,1314546,₹70,₹70,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/feba74c5-ea86-4aaa-b738-3eeb22fb61a0.jpg?ts=1743159494,N/A,Troovy
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,601707,DOKi Karnataka Nati Chicken Jerky,1327584,₹199,₹199,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/ab258d4c-7a3b-4fb4-9af6-1e04161c91d9.jpg?ts=1736241092,N/A,DOKi
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,601720,DOKi Murg Mughlai Chicken Jerky,1327607,₹199,₹199,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/d7c865a6-21d0-4b6c-b123-6e92c49563bc.jpg?ts=1752744738,N/A,DOKi
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,30771,588882,TummyFriendly Foods Roasted Millet Italian Seasoning Mixture Namkeen,2021620,₹199,₹299,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/a9e845c2-7944-498d-91a5-423ecdfb1e35.jpg?ts=1732872291,N/A,TummyFriendly Foods
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,30771,588877,TummyFriendly Foods Roasted Millet Tangy Tomato Mixture Namkeen,2049158,₹199,₹299,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/d1081bd8-482e-4501-9f0e-5b5f5c1959fc.jpg?ts=1732872280,N/A,TummyFriendly Foods
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,616569,Jabsons Sundried Red Chilli Masala Mota Chips,1935757,₹60,₹60,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/90a952be-1765-4c1a-a372-d3e325a6e40f.jpg,N/A,Jabsons
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,30771,619399,TummyFriendly Foods Roasted Millet Namkeen,2012954,₹199,₹298,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/3ff769a3-4677-4b48-a159-037c4ce7bad1.jpg,N/A,TummyFriendly Foods
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,547516,Banner & Co Lemon & Pepper Popped Chips,820826,₹49,₹70,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/d265f099-3620-4c95-817d-f3eff5cbe618.jpg,N/A,Banner & Co
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,555603,"VS Mani & Co. Chilli Hot Potato Chips, No Palm Oil",1227361,₹54,₹75,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/41ed0880-f312-415a-8ec1-fab3413682f7.jpg?ts=1734330807,N/A,VS Mani & Co.
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,536637,Too Yumm American Style Cream & Onion Potato Chips,534011,₹45,₹50,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/db14c566-7e03-40ca-8a5f-b2a37424d22d.jpg?ts=1751544078,N/A,Too Yumm
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,333840,Pringles Original Potato Chips - Pack of 2,534042,₹200,₹250,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/f3e04855-f071-456a-bb93-dbc722e67b40.jpg?ts=1739875633,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,333841,Pringles Sour Cream & Onion Potato Chips - Pack of 2,534043,₹200,₹250,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/a7cd8c42-2fbd-48a4-ae9b-e2e6e54829fc.jpg?ts=1739875641,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,531484,Pringles Tangy Tomato Twist Potato Chips,754559,₹116,₹125,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/531484a.jpg,N/A,Pringles
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,669601,Bingo Cream and Onion Potato Chips,444656,₹45,₹50,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/2933e2df-9646-43b2-96d6-11feb0e65ec1.jpg,N/A,Bingo
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,372115,Chheda's Golden Potato Chips (Rock Salt),2159856,₹81,₹90,True,15,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5ff23ece-4334-40c6-954e-c26e3c41de01.jpg?ts=1712061850,N/A,Chheda's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,455872,Too Yumm Indian Masala Potato Chips,534056,₹45,₹50,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/03208def-e8c4-44f2-8075-bd31190eec39.jpg?ts=1751544001,N/A,Too Yumm
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,518859,Bingo Original Style Salt Potato Chips - Pack of 4,504148,₹74,₹80,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/39ac4c63-7236-45c1-a841-784eac5c9d81.jpg?ts=1728051466,N/A,Bingo
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,432774,Lay's American Style Cream & Onion Potato Chips,561608,₹30,₹30,True,49,False,https://cdn.grofers.com/da/cms-assets/cms/product/a6b7f763-475d-4c1e-8b73-2fc31fa9758e.jpg?ts=1740569128,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,574,Lay's Chile Limon Flavour Potato Chips,682288,₹20,₹20,True,50,False,https://cdn.grofers.com/da/cms-assets/cms/product/01f742e6-fa7a-4dfa-97b9-cd901df4033b.jpg?ts=1740568991,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,432775,Lay's India's Magic Masala Potato Chips,438085,₹30,₹30,True,49,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/28e2bfb3-ca64-432f-916e-32cac6ede709.jpg?ts=1726832118,N/A,Lay's
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,524860,Crax Fritts Cream & Onion Corn & Potato Stick Snacks,2151207,₹39,₹60,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/b9983f9a-3fb4-4fed-bece-6d58c04b81ef.jpg?ts=1750420925,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,618949,NATIBLE Quinoa Puffs Dahi Papdi,1850021,₹99,₹190,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/6f809b4b-4672-4588-bb69-2e6770ea9cea.jpg,N/A,NATIBLE
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,530675,Piknik Red Hot Puffs - Pack of 2,732877,₹78,₹120,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/dde9e45b-b08e-46aa-95dd-5d6e113ed16b.jpg?ts=1716876830,N/A,Piknik
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,553796,Crax Biggies Swiss Cheese Puffs Snacks,2147824,₹39,₹60,True,22,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/f8a44fc5-3636-4b7b-8e48-eac1e7bacfb5.jpg?ts=1723798980,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,524862,Crax Natkhat Classic Wheat Puffs Snacks,2148132,₹39,₹60,True,7,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/daa22a3f-0a53-4a7f-8e62-25b4276049f1.jpg?ts=1708330365,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,618201,NATIBLE Roasted Puffs,1836909,₹249,₹350,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/158fe508-153d-4f3f-9097-3bfe9bce24ff.jpg,N/A,NATIBLE
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,674950,Cheetos Classic Puffs,2137738,₹105,₹140,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/7cf2c466-41b5-4e3e-b5ce-9f24e9025bf6.jpg?ts=1752236918,N/A,Cheetos
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,657617,Crax Choco Rings Puffs,2047434,₹21,₹25,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/80a34998-f4c4-40c7-8ad3-72f4e8e7b319.jpg?ts=1752213842,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,543646,Fun Flips Baked & Crunchy Masala Puffs,945519,₹42,₹50,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/e630ed4b-2f87-4366-91d5-3f3a1ab40410.jpg,N/A,Fun Flips
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,543648,Fun Flips Baked & Crunchy Mocktail Curly Puffs,945517,₹42,₹50,True,12,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/5316e4df-ec50-4473-a13c-808bae7f6c2a.jpg,N/A,Fun Flips
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,520066,Fun Flips Cheeesy Pizza Puffs,722926,₹42,₹50,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/520066a.jpg?ts=1690831705,N/A,Fun Flips
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,657115,Fun Flips Ghost Puffs (Bhut Jolokia Chilli Flavour),2047674,₹50,₹60,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/ef93c329-90ee-470b-95c7-2a32643393f6.jpg,N/A,Fun Flips
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,497420,Fun Flips Hot & Saucy Puffs,661751,₹42,₹50,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/02779411-087b-4473-a09e-aa70a805142c.jpg?ts=1734608853,N/A,Fun Flips
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,618950,NATIBLE Quinoa Puffs Cheese & Jalapeno,1850023,₹165,₹190,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/3013b60c-c67a-4e8d-90fa-bc422504027b.jpg,N/A,NATIBLE
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,618951,NATIBLE Oatmeal Puffs Spanish Tomato,1850029,₹150,₹170,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/d192a714-fcb0-4fd9-b4a5-f4d26f71d5c6.jpg,N/A,NATIBLE
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,498770,Taali Roasted Protein Puffs (Cheese & Herbs),2156635,₹54,₹59,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/f7aeb585-2b47-4025-8ac0-010573094695.jpg?ts=1743580064,N/A,Taali
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,498771,Taali Roasted Protein Puffs (Masala Mania),2156637,₹54,₹59,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/925a554c-35b0-4917-8fd6-8a4386a94698.jpg?ts=1743580069,N/A,Taali
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,618948,NATIBLE Jowar Puffs Cheese & Herbs,1850017,₹145,₹150,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/0141d233-9095-4f4d-920c-7ae1edb9c143.jpg,N/A,NATIBLE
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,601697,DOKi Portuguese Peri Peri Pork Puffs,1333176,₹150,₹150,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/2d76359a-a768-4795-a09d-e9330e8b72a2.jpg?ts=1752843244,N/A,DOKi
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,546399,Fun Flips Exotic Puffs Combo Pack,945511,₹99,₹99,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/970b9ae0-042a-4da1-8b2a-eff238196b08.jpg,N/A,Fun Flips
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,629119,NOTTY NUTS Chickpea Puffs,1917574,₹110,₹110,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/09c70463-6a12-4fb4-b026-cbe225794acb.jpg,N/A,NOTTY NUTS
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,31130,629177,NOTTY NUTS Roasted Jowar Puffs,1923198,₹100,₹100,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/a7db6898-839d-46d9-821a-6eab41feaef8.jpg,N/A,NOTTY NUTS
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,673750,Crax Peri Peri Ragi Chips,2131209,₹45,₹50,True,8,False,https://cdn.grofers.com/da/cms-assets/cms/product/945af3b2-d9d4-4fca-bba1-2cc638ad16aa.jpg?ts=1751265651,N/A,Crax
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,36222,522626,Saffola Crunchiez Ragi (Munchiez) Chips (Takatak Tomato),1257533,₹40,₹60,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/6f103259-7ff8-45d4-86e6-de4f6aecbe0f.jpg?ts=1725208891,N/A,Saffola
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,30771,609831,Asmita Organic Farms Brown Rice Crisps (Smokey Barbeque),1902333,₹99,₹125,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/818417cc-fd95-44f0-ae8d-d190fdf9a817.jpg,N/A,Asmita Organic Farms
+
+21/07/2025,Munchies,1237,Chips & Crisps,940,30771,602092,Asmita Organic Farms Brown Rice Crisps (Cream & Onion),1902335,₹99,₹110,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/21ad1575-11ed-4cdc-b3d9-9995e3d88fbc.jpg?ts=1736308980,N/A,Asmita Organic Farms
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,570799,Original Ghee Mysore Pak by Sweet Karam Coffee,1149826,₹149,₹149,True,8,True,https://cdn.grofers.com/da/cms-assets/cms/product/0886b60d-0fa7-4794-97d8-bd39741d56fa.png,N/A,Sweet Karam Coffee
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,534829,Fresh Milk Peda by Nandini,776154,₹139,₹140,True,12,False,https://cdn.grofers.com/da/cms-assets/cms/product/3ce2ad4b-0750-4a4a-80dc-6e108b0b3fe3.png,N/A,Nandini
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,512669,Motichoor Laddu by Lal,704698,₹125,₹125,True,22,False,https://cdn.grofers.com/da/cms-assets/cms/product/41b23732-feeb-4121-8815-e7a32c214e61.png,N/A,Lal
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,376055,Fresh Motichoor Laddu by Anand,737862,₹160,₹160,True,17,False,https://cdn.grofers.com/da/cms-assets/cms/product/d2de1ed0-cb96-4907-926a-010460b1f88f.png,N/A,Anand
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,478077,Milk Cake by Lal,661581,₹155,₹159,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/bf8ae4a8-f252-457c-be4c-c57d5d58efcd.png,N/A,Lal
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,45232,Agra Taj Petha by Haldiram's,661423,₹65,₹65,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/383012b3-8b32-4d8c-855f-375d45543343.png,N/A,Haldiram's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,427611,Malai Peda by Amul,661510,₹120,₹120,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/41004af4-5151-4fb4-a453-6e0b50784471.png,N/A,Amul
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,56726,Rajgira Laddu by Charlie's,661427,₹40,₹40,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/8af88dac-9ac0-4c07-aa52-90ce019c3d48.png,N/A,Charlie's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,636231,Rajgira Laddu by Veerabhadra,1947950,₹40,₹40,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/e58e2026-232f-4ca2-a4c9-57164c235a98.png,N/A,Veerabhadra
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,391414,Classic Besan Laddu by Lal,749354,₹90,₹90,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/50bbfa0e-d80b-4085-bb20-ca68a4b7fde2.png,N/A,Lal
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,487670,Doodh Peda Anand,733733,₹160,₹160,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/8b1b6feb-ffdc-4110-a702-a6f9096e0392.png,N/A,Anand
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,561092,Hazelnut & Chocolate Sugar-Free Laddu by Eat Better Co,716073,₹77,₹79,True,8,False,https://cdn.grofers.com/da/cms-assets/cms/product/99f9e2cc-bc3b-4d88-a854-481ed0583381.png,N/A,Eat Better Co
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,520006,Motichoor Ghee Laddu by Daadi's,744767,₹148,₹170,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/4b9ebd6f-d36d-488c-851d-e5875350748f.png,N/A,Daadi's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,392509,Soan Papdi by Haldiram's Nagpur,661485,₹135,₹135,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/cdf8c2a5-42c8-4d1b-8feb-4940c99b573e.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,532389,Peanut Chikki 24 Mantra Organic,837111,₹100,₹100,True,14,False,https://cdn.grofers.com/da/cms-assets/cms/product/f9c3f857-df59-49ff-83b0-0640c6d4cdb0.png,N/A,24 Mantra Organic
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,534830,Fresh Mysore Pak by Nandini,776155,₹160,₹160,True,31,False,https://cdn.grofers.com/da/cms-assets/cms/product/a9bb5a59-e129-4f41-b799-4066ca9f3e42.jpg?ts=1745578377,N/A,Nandini
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,376062,Finest Mysore Pak by Anand,1920013,₹186,₹190,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/6d5cd95e-f853-4f87-ba49-e78006e6985d.jpg?ts=1752560165,N/A,Anand
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,190192,Kaju Katli by Amul,661445,₹525,₹525,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/7c0bfb4f-4644-482e-bde0-1d4d4ca6d830.jpg?ts=1723014419,N/A,Amul
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,56727,Til Laddu by Charlie's,661428,₹72,₹80,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/c5c5e4d8-5fa8-44d0-8130-50439321301d.jpg?ts=1751283222,N/A,Charlie's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,561093,Vanilla Chocolate Sugar-Free Laddu by Eat Better Co,1092939,₹77,₹79,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/7282fb68-77f5-4d26-856c-7218bdb098a3.jpg?ts=1748811210,N/A,Eat Better Co
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,253521,Rasgulla by Haldiram's Nagpur,661448,₹225,₹225,True,9,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/60da4fd2-7907-40a0-ba89-bff8a4e95c5b.jpg?ts=1723014426,N/A,Haldiram's Nagpur
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,561094,Coffee Almond Sugar-Free Laddu by Eat Better Co,1092941,₹57,₹59,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/621b7487-78c3-43fb-a099-a9e8b2e33f07.jpg?ts=1748811220,N/A,Eat Better Co
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,561096,Peanut Chocolate Sugar-Free Laddu by Eat Better Co,1092943,₹57,₹59,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/480269f4-15ae-47fe-ad3e-356b7429298b.jpg?ts=1748811227,N/A,Eat Better Co
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,635588,Anand Royal Gulab Jamun,1941617,₹140,₹140,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/e406ceb8-ff14-4aee-9bca-1a33ab461234.jpg,N/A,Anand
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,633180,Premium Dimahqia Kunafa Indian Sweets by Anand,1937320,₹248,₹275,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/ec4e6483-e7c1-4f11-9936-8914713e2595.jpg,N/A,Anand
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,633166,Premium Nest Kunafa Indian Sweets by Anand,1937316,₹158,₹175,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/7773dfa2-7f9f-43e7-8971-790eb9860b12.jpg,N/A,Anand
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,633177,Premium Sandwich Kunafa Indian Sweets by Anand,1937314,₹203,₹225,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/8c55dbf4-7929-4bc3-bae1-305af6cec7c6.jpg,N/A,Anand
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,635576,Anand Royal Rasgulla,1941582,₹130,₹130,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/dcf35b76-fc78-4307-8cde-3e4f713dbf61.jpg,N/A,Anand
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,300932,Cardamom Soan Papdi by GRB,1548463,₹69,₹75,True,8,False,https://cdn.grofers.com/da/cms-assets/cms/product/2fd1f7df-8d02-4556-bbb4-cd0bc2e221f1.jpg?ts=1737723439,N/A,GRB
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,567569,Rajgeera Ladoo by Chheda's,1110809,₹37,₹60,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/061e0fa9-936c-4e65-b9fc-697dcd4847cc.jpg?ts=1725885032,N/A,Chheda's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,300934,Ghee Mysore Pak by GRB,1548443,₹169,₹170,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/d69c3ad7-b06b-47f3-8b63-76e231199ce1.png,N/A,GRB
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,385103,Open & Eat Rasgulla by Gits,661477,₹207,₹255,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/dc03d841-6dc0-4b04-80fb-3bceb4a69389.png,N/A,Gits
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,423967,Besan Ghee Laddu by Daadi's,744765,₹111,₹190,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/d9171aa4-0b0b-4226-83cf-e9cc57688f95.png,N/A,Daadi's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,554146,Dharwad Peda by Daadi's,880182,₹148,₹170,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/fe640d6b-f72b-4f76-b602-51016bc6865d.png,N/A,Daadi's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,349695,Ras Malai (Frozen) by Amul,762255,₹250,₹250,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/1909b77d-a970-4e53-8df4-3627464fa997.png,N/A,Amul
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,532393,Sesame Chikki Box 24 Mantra Organic,837112,₹100,₹100,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/69e02fd2-fdbb-4575-b3c1-3443b4216b4b.png,N/A,24 Mantra Organic
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,570848,Ragi Laddu by Sweet Karam Coffee,1203837,₹147,₹159,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/d118202b-9003-4925-858a-5f969e4f1fb7.png,N/A,Sweet Karam Coffee
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,676257,Rasgulla By A2B,2142914,₹230,₹230,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/c1d3d8a5-0938-4118-83ba-43bf5e0f6542.png,N/A,A2B
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,209747,Rasgulla GRB,660872,₹135,₹135,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/ba7b7131-9bce-4a1f-a7b5-817b4fb2c808.png,N/A,GRB
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,440070,Soan Papdi by Charlie's,661538,₹58,₹98,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/7890c61a-bc8e-4412-ba6d-8e55f3c29101.png,N/A,Charlie's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,673347,Soan Papdi by Bikano,2131619,₹49,₹55,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/041cb812-52ca-43c5-86fe-cd40b6115a64.png,N/A,Bikano
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,554126,Kaju Katli by Daadi's,880160,₹225,₹250,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/094f233d-8404-48e1-ac56-db3412cb86ad.png,N/A,Daadi's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,609041,Crispy Ghee Mysore Pak by GRB,1390488,₹159,₹170,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/10604c71-12b9-4609-8abd-c78b401d30e7.png,N/A,GRB
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,300930,Gulab Jamun by GRB,1548502,₹229,₹235,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/a477e598-d770-4fb4-ad94-c3024ecd9328.png,N/A,GRB
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,624174,Flax Seeds Laddu by Equisential,1902079,₹175,₹225,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/c0264f43-01f4-40eb-bea0-c0e655448111.png,N/A,Equisential
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,68628,Orange Soan Papdi By Haldiram's Nagpur,748899,₹75,₹75,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/78d875f8-d84a-4a04-8a22-c10ff040db4c.png,N/A,Haldiram's Nagpur
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,477181,Palli Laddu - Chikki Veerabhadra,801169,₹69,₹70,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/e637728c-5942-4ea7-830a-bbb99e9ea0a2.png,N/A,Veerabhadra
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,610327,Jaggery Mysore Pak Anand Sweets,1392589,₹210,₹210,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/9bf8ac93-296c-4a98-9d9d-79aae0d1e964.png,N/A,Anand Sweets
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,532863,Royal Rasgulla by Bikano,775913,₹198,₹375,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/46d4e047-3e77-4338-b302-fd05b59cbd47.png,N/A,Bikano
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,534645,Fresh Chocolate Burfi by Nandini,776152,₹129,₹130,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/beca0e5c-6893-4dd8-b433-a3b185bd6805.png,N/A,Nandini
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,424179,Besan Laddu by Bikano,661508,₹174,₹300,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/d15c38c1-1b94-4af0-bb41-73d3c2accda4.png,N/A,Bikano
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,68033,Gol-Matol Rasgulla by Bikaji,661431,₹248,₹250,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/ac2f7007-9f4f-419f-8e51-98ff69a120b0.png,N/A,Bikaji
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,554145,Doodh Peda by Daadi's,911946,₹154,₹160,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/fb672460-17cf-401a-b6a5-7cd238ba613a.png,N/A,Daadi's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,629180,Jaggery & Cow Ghee Besan Laddu From Granny,1923237,₹199,₹299,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/f85d990a-34c6-4d3a-b752-c3bfbcd75778.png,N/A,From Granny
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,554143,Ghee Mysore Pak by Daadi's,880179,₹158,₹180,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/91422141-0cdb-482c-acd4-204ea8d97dcb.png,N/A,Daadi's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,615058,Zero Sugar Kaju Katli - Artinci,1734994,₹199,₹220,True,8,False,https://cdn.grofers.com/da/cms-assets/cms/product/5b4a46f9-4c5f-4c85-8aa6-d863253e5ac5.png,N/A,Artinci
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,610311,Mothichur Laddu By Asha,1392564,₹144,₹160,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/501e2b8f-24be-4396-bd57-e8a63a802678.png,N/A,Asha
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,482246,Besan Laddu by Amul,661613,₹116,₹120,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/4aad7fa0-a843-4d39-ad5b-b834d9e429da.png,N/A,Amul
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,612827,Milk Peda by GO DESI,1493349,₹133,₹150,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/87b0dfef-7906-4ffe-bf5f-5f52fd32b10c.png,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,613702,Pure Ghee Besan Laddu by GO DESI,1903673,₹115,₹199,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/8eaf1d75-3bf3-49e1-bc62-b5c71b1fb54e.png,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,613276,Dharwad Peda GRB,1488657,₹165,₹170,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/e491f833-d2a8-465d-a096-b92506aa5c16.jpg?ts=1738668282,N/A,GRB
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,559053,Coconut Laddu by GO DESI,1883040,₹204,₹399,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/65135d39-3be3-468d-8a7d-0f6d4958dab9.jpg?ts=1750072800,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,675794,Besan Laddu by Chheda's,2148227,₹79,₹90,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/6d476df6b7514810b65afc36bc3dd9d2.jpeg,N/A,Chheda's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,581906,Peanut Chikki by Sweet Karam Coffee,1229475,₹92,₹99,True,10,False,https://cdn.grofers.com/da/cms-assets/cms/product/272310e5-fb38-4c32-b1d7-47338dcade88.jpg?ts=1731401564,N/A,Sweet Karam Coffee
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,609024,Kaju Katli by GRB,1390186,₹229,₹329,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/ccd34a46-30a4-464a-942d-1255a8f1d320.jpg?ts=1737545520,N/A,GRB
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,613744,Mysore Pak by GO DESI,1556556,₹133,₹199,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/2a9c514c-ce23-4d39-993c-3545f9adb9e2.jpg?ts=1750073304,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,485445,Premium Soan Papdi by Bikano,661621,₹163,₹280,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/2c4bb1b7-62c8-4186-a1d6-f4774a86cabf.jpg?ts=1729513308,N/A,Bikano
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,586980,Crunchy Peanut Chikki by GO DESI,1242075,₹43,₹60,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/52973e43-b376-429a-9097-8e7e9c62a1fe.jpg?ts=1750072857,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,610318,Kaju Katli by Asha,2120112,₹234,₹260,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/77f8e922-1373-41e1-aa79-a922e2610f20.jpg?ts=1738053645,N/A,Asha
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,520068,Pista Coconut Barfi by GO DESi,1883023,₹117,₹120,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/33efe924-8b70-473a-adcc-25d4a7c363be.jpg?ts=1750072471,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,423968,Atta Gond Ghee Laddu by Daadi's,744766,₹116,₹199,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/423968a.jpg?ts=1690813694,N/A,Daadi's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,519384,Dry Fruit Barfi by GO DESi,1883108,₹164,₹210,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/688855d6-4ff5-4eba-9c2b-1000ce3bc03d.jpg?ts=1750072488,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,563274,Filter Coffee Burfi by Sweet Karam Coffee,1055895,₹182,₹199,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/1494bb17-2d06-4377-94cb-c2835271d705.jpg?ts=1752486005,N/A,Sweet Karam Coffee
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,601991,Zero Sugar Motichoor Laddu by Artinci,1333066,₹199,₹249,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/7595794a-b02c-46d5-b68c-29d59b9db029.jpg?ts=1752051258,N/A,Artinci
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,42150,Panjeeri Laddu by Bikano,661421,₹174,₹300,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/a37a0985-1ed4-48e8-b936-b2acb48dc94a.jpg?ts=1727421216,N/A,Bikano
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,506708,Vanilla & Chocolate Laddu by Eat Better Co (No Added Sugar),1057911,₹389,₹399,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/af2b3358-ba6d-4955-adcb-578a5a4d141a.jpg?ts=1747770887,N/A,Eat Better Co
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,71808,Dry Petha Bikano,660167,₹107,₹110,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/aab51c3f-30b1-4995-a1c1-1a99eb0b9d23.jpg?ts=1728040358,N/A,Bikano
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,440064,3 in 1 Peanut Chikki by Charlie's,661534,₹61,₹96,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/c839d548-0b5c-4e9c-891f-d64bbae7c65d.jpg?ts=1750855025,N/A,Charlie's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,507359,Coffee & Almond Sugar Free Laddu Eat Better Co,835969,₹289,₹299,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/bee10b14-392c-43d3-85c9-bd282b428e37.jpg?ts=1748811098,N/A,Eat Better Co
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,553999,Orange Chocolate No Added Sugar Laddu by Eat Better Co,1057933,₹289,₹299,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/0087c28c-fa63-458d-a632-5d890f3bdca3.jpg?ts=1747770894,N/A,Eat Better Co
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,613309,Multi Millet Laddu by From Granny,1489652,₹229,₹299,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/9a3caba5-d4bf-4105-a685-60737fda59ce.jpg,N/A,From Granny
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,559361,100% Pure Ghee Baklava by Unibic,1031901,₹240,₹599,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/817260d3-f288-4c49-88e8-286f4923dc2e.jpg?ts=1740745386,N/A,Unibic
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,597486,Seeds & Nuts Protein Laddu by Artinci,1314715,₹220,₹249,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/071d2ec4-f299-4267-afca-1c2d13c9c04d.jpg?ts=1738840681,N/A,Artinci
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,559362,Swaadesi Ghee Dryfruit Dodha Burfi by Unibic,1961022,₹127,₹230,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/a4c629ed-2585-418b-8ff5-8cd68e9cddfb.jpg?ts=1744027949,N/A,Unibic
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,91119,Raj Bhog by Bikaji,661438,₹255,₹265,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/43963c6d-5ee6-4266-bc79-5fdb666aac84.jpg?ts=1752233114,N/A,Bikaji
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,521324,Raj Bhog By Haldiram's Nagpur,1885563,₹225,₹225,True,1,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/80ebd9b5-4a37-46ec-bcd9-c1ed791dfb18.jpg?ts=1723014598,N/A,Haldiram's Nagpur
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,52653,Cham Cham by Haldiram's Nagpur,1882037,₹225,₹225,True,2,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/eb67bd74-7a31-4da9-901c-63f37138572c.jpg?ts=1708592754,N/A,Haldiram's Nagpur
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,519383,Kaju Kishmish Coconut Barfi by GO DESi,1882270,₹100,₹120,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/29139d82-9fc2-458a-8e99-65df4c3a8553.jpg?ts=1750072471,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,559367,Shahi Kaju Katli by Unibic,1031884,₹231,₹399,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/60ce0bf3-83cf-47f1-874a-83d506f2e823.jpg?ts=1752143906,N/A,Unibic
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,495702,Classic Soan Papdi by Karachi's,661679,₹60,₹90,True,4,False,https://cdn.grofers.com/app/images/products/sliding_image/495702a.jpg?ts=1687951339,N/A,Karachi's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,570586,Swaadesi No Added Sugar Besan Laddu by Unibic Swaadesi,1210379,₹130,₹299,True,3,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/189be706-bccc-4965-a039-1e3c5657f6dd.jpg?ts=1727193529,N/A,Unibic Swaadesi
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,626,Gulab Jamun by Haldiram's Nagpur,661417,₹225,₹225,True,5,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/51f31343-d733-4e8f-b703-42ec9014b817.jpg?ts=1707313058,N/A,Haldiram's Nagpur
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,610067,Sugar Free Dry Fruit Burfi by Asha,1391291,₹342,₹380,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/039b98fd-064f-4ed2-b5d1-5c39fc57997c.jpg,N/A,Asha
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,563202,Jaggery Coconut Burfi by Sweet Karam Coffee,1077053,₹186,₹199,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/67ba8e3e-eebf-4335-b74d-d82e342888ff.jpg?ts=1752485995,N/A,Sweet Karam Coffee
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,580393,Sattu & Jaggery Laddu Box by Two Brothers,1223724,₹387,₹429,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/7d29e50a-0c9a-417f-b646-081d46878f36.jpg?ts=1736247453,N/A,Two Brothers
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,682414,Athirasam/Ariselu By Sweet Karam Coffee,2168195,₹169,₹169,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/ca8420d34611416aaeb21bca15c7e37a.jpeg?ts=1751537201,N/A,Sweet Karam Coffee
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,430505,Kaju Dhoda Burfi by Bikano,661516,₹224,₹400,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/2dccc2ae-6afe-440c-b4e9-9da2568cb36e.jpg?ts=1729513304,N/A,Bikano
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,520067,Badam Coconut Barfi by GO DESi,1881989,₹98,₹120,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/c2d8350d-26f2-4035-80b6-2f531efeb1b1.jpg?ts=1750072504,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,619068,Coconut Burfi By GRB,1852658,₹139,₹170,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/37cdedb5-d5f4-4b8e-a6b1-6f66493c394f.jpg?ts=1739963474,N/A,GRB
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,612095,Sweets Choco Almond Burfi by Lal,1464280,₹175,₹175,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/b5bdbf28-7a65-44d2-985b-bd795ad8c9e4.jpg?ts=1748860912,N/A,Lal
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,440065,Butterscotch Peanut Chikki by Charlie's,661535,₹61,₹96,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/24663090-d64b-4935-b03f-7e77443615fd.jpg?ts=1750855031,N/A,Charlie's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,440066,Crushed Peanut Chikki by Charlie's,661536,₹61,₹96,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/c58decdb-a558-44da-802a-dbcf6bd0b180.jpg?ts=1750845847,N/A,Charlie's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,440063,Peanut Chikki by Charlie's,661533,₹61,₹96,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/1de6a3dd-345e-4657-9368-35d6edfff563.jpg?ts=1750855017,N/A,Charlie's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,588227,Dry Fruits Chikki by True Elements,1243574,₹76,₹100,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/b201b447-5707-46b3-9c9e-cadef0be71dc.jpg?ts=1732614584,N/A,True Elements
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,477187,Chikki Veerabhadra,801170,₹69,₹70,True,5,False,https://cdn.grofers.com/app/images/products/sliding_image/477187a.jpg?ts=1688471934,N/A,Veerabhadra
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,650267,Dry Fruit & Dates Laddu (Assorted) by Eat Better Co,2022734,₹272,₹394,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/4e0b8362-8e37-422c-9428-efa76b856732.jpg?ts=1747632544,N/A,Eat Better Co
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,629891,Dry Fruit Laddu by Equisential,1927143,₹175,₹225,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/72c6375a-8c0c-446a-bf4a-9b91a83d99c8.jpg?ts=1749802440,N/A,Equisential
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,674783,Multigrain Laddu by Equisential,2135111,₹175,₹225,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/3efaf3fe-df8f-41c4-b1e6-0893b2108f52.jpg,N/A,Equisential
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,627553,Postpartum Gond Laddu by Equisential,2137082,₹175,₹225,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/0c303aeb-9695-4048-b4e4-44919ce7848e.jpg?ts=1749715031,N/A,Equisential
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,657212,Zero Sugar Besan Laddu by Artinci,2047455,₹180,₹220,True,5,False,https://cdn.grofers.com/da/cms-assets/cms/product/eafa4ae6-e64f-422d-b6fa-69adcc1e6280.jpg,N/A,Artinci
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,674797,Chocolate Hazelnut Laddu by Equisential,2138528,₹185,₹225,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/0f75d7fa-6e4b-44ac-906d-5146a1c5575c.jpg?ts=1751362784,N/A,Equisential
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,504867,Hazelnut & Chocolate Sugar-Free Laddu Eat Better Co,835967,₹389,₹399,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/3a07238c-7483-47fe-9150-603d7c9efa30.jpg?ts=1747770878,N/A,Eat Better Co
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,376021,Besan Laddu by Anand,728987,₹157,₹160,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/7813827b-4893-4a57-8633-b45525641a70.jpg?ts=1752560116,N/A,Anand
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,557096,Motichoor Laddu by Amul,1013776,₹108,₹110,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/9166c724-029a-45b7-a8ce-d228785a5e2e.jpg?ts=1740745373,N/A,Amul
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,612096,Ghee Dry Fruits Boondi Laddu by Lal,1464278,₹175,₹175,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/6aeb05cd-75a9-4b49-9f3a-6757a9538b4a.jpg?ts=1748860920,N/A,Lal
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,650443,Gud Imli Laddu by Jaggic,1990186,₹180,₹180,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/19bd7118-f7aa-448e-bda8-f6f5ccac77cf.jpg?ts=1748496343,N/A,Jaggic
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,427614,Milk Cake Amul,660297,₹125,₹125,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/af2ab980-7bdb-41a7-bb5a-71cbedde7e68.jpg?ts=1740744411,N/A,Amul
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,674114,Milk Cake by GRB,2134670,₹170,₹170,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/d57bcb68-f908-49fd-b595-581583a7894f.jpg,N/A,GRB
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,626991,Ghee Mysore Pak by Unibic Swaadesi,1903863,₹114,₹260,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/fac84546-b051-4983-854c-5f2c1b629149.jpg,N/A,Unibic Swaadesi
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,610065,Mysore Pak By Asha,1391281,₹194,₹215,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/5e0ee07f-e6e6-4734-81e7-9e87455ab1fa.jpg,N/A,Asha
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,434469,Premium Mysore Pak by Lal,661529,₹140,₹140,True,7,False,http://cdn.grofers.com/app/assets/products/sliding_images/jpeg/115510b1-1df1-42c3-97cc-ccbc92185054.jpg?ts=1714470111,N/A,Lal
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,643397,Mama Nourish Coconut Mini Laddu Bar,2131403,₹199,₹300,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/a0ed1caf-cb30-4af1-b2d8-715698545c9a.jpg?ts=1747997636,N/A,Mama Nourish
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,614918,Patisa by Bikano,1758353,₹183,₹280,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/fbaeb3f2-6c45-4ac7-99c7-8b8a1f9c46fe.jpg?ts=1738912451,N/A,Bikano
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,528704,Sweet Soan Cake Patisa by Haldiram's Nagpur,753660,₹80,₹80,True,1,False,https://cdn.grofers.com/app/images/products/sliding_image/528704a.jpg?ts=1690831801,N/A,Haldiram's Nagpur
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,612831,Kesar Peda by GO DESI,1547619,₹140,₹160,True,1,False,https://cdn.grofers.com/da/cms-assets/cms/product/bb68a5dc-39e7-4a24-8298-5ea882bc9a43.jpg?ts=1746615464,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,487671,Dharwad Peda by Lal,661647,₹137,₹140,True,9,False,https://cdn.grofers.com/da/cms-assets/cms/product/9fde8fcf-cba7-403a-a120-27bec7be464b.jpg?ts=1748861026,N/A,Lal
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,427612,Kesar Peda by Amul,661511,₹125,₹125,True,6,False,https://cdn.grofers.com/da/cms-assets/cms/product/db0ea4f1-0f80-4b3e-9879-3225686486bd.jpg?ts=1740744409,N/A,Amul
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,512668,Kesar Peda by Lal,704697,₹150,₹150,True,2,False,http://cdn.grofers.com/app/images/products/sliding_image/512668a.jpg?ts=1697793523,N/A,Lal
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,326664,Rasgulla by Amul,747519,₹210,₹210,True,2,False,http://cdn.grofers.com/app/images/products/sliding_image/326664a.jpg?ts=1697793139,N/A,Amul
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,529329,Classic Soan Papdi by Lal,752500,₹74,₹80,True,7,False,https://cdn.grofers.com/da/cms-assets/cms/product/438a2c98-9602-4c7f-8d89-015fa9708833.jpg?ts=1748860710,N/A,Lal
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,609406,Farmley Dark Choco Orange Date Bites Dessert,2149514,₹34,₹40,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/76a3d332-4b76-42c2-b10e-a974328179c1.jpg?ts=1737624779,N/A,Farmley
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,606852,Farmley Dark Choco Orange Date Bites Dessert,2149512,₹346,₹400,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/48de44d6-a4fc-41f7-be36-c03e3fd13b2a.jpg?ts=1743756528,N/A,Farmley
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,540410,Wonderland Foods Date and Dry Fruits Bites Delight,2149509,₹249,₹499,True,4,False,https://cdn.grofers.com/da/cms-assets/cms/product/f3a3d70b-a9a9-4094-8998-f99bd934e93f.jpg?ts=1744715969,N/A,Wonderland Foods
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,538987,Jaggic Gur Chana (Hurida Chenna),1340767,₹117,₹150,True,4,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/cd34cc05-34de-4c4c-9236-d927c9883340.jpg?ts=1706602566,N/A,Jaggic
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,677166,Wonderland Foods Date and Dry Fruits Bites Delight - Pack of 2,2142101,₹489,₹998,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/af755957-d589-4d35-8931-054aea1d4ded.jpg?ts=1750238004,N/A,Wonderland Foods
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,567762,Farmley Date & Dry Fruit Bites (No Added Sugar) - Pack of 3,1252318,₹99,₹120,True,2,False,https://cdn.grofers.com/da/cms-assets/cms/product/e48d11e6-af81-4d56-8667-8ea5d04c927b.png,N/A,Farmley
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,519118,Farmley Date & Dry Fruit Bites (No Added Sugar),2149523,₹34,₹40,True,8,False,https://cdn.grofers.com/da/cms-assets/cms/product/0f441178-d002-491a-972b-0195fc859d3d.png,N/A,Farmley
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,504259,Farmley Date Bites Dry Fruit (No Added Sugar),2149505,₹349,₹400,True,13,False,https://cdn.grofers.com/da/cms-assets/cms/product/359f7ef2-568f-4dd7-8922-44f878310e32.png,N/A,Farmley
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,650241,Farmley Apple Pie Date Bites,1986229,₹355,₹400,True,3,False,https://cdn.grofers.com/da/cms-assets/cms/product/4364c1bd-d1d4-40f5-9e06-c1f65798bd9b.png,N/A,Farmley
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,554127,Coconut Ghee Burfi by Daadi's,880162,₹158,₹180,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/565b18ee-a522-411c-a625-414baaf7f761.png,N/A,Daadi's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,578447,Chocolate Kaju Katli by Sweet Karam Coffee - Pack of 2,1203838,₹370,₹398,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/fb76c4e2-038c-4838-8fdd-73a24f5d34e0.png,N/A,Sweet Karam Coffee
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,56724,Mamra Laddu by Charlie's,661426,₹30,₹48,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/2e0380b1-5c73-4b20-a3ef-f38c652d3c96.png,N/A,Charlie's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,659399,Mango Mysore Pak by Sweet Karam Coffee,2062809,₹138,₹149,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/fd9901b0-61ee-4f22-aa6d-b19989c30a7c.png,N/A,Sweet Karam Coffee
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,586931,Crushed Peanut Chikki by GO DESI,1241684,₹46,₹60,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/aff84885-467e-4e47-b2e2-e35b3eec42a1.png,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,376058,Mysore Pak by Anand,729941,₹460,₹460,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/56e05324-3cb6-416c-81d9-97b250ac0969.png,N/A,Anand
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,31130,680957,Zero Sugar Kaju Katli by Artinci,2163269,₹340,₹349,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/7d23bbf8-e63f-4f00-93ff-38d95b8d3947.png,N/A,Artinci
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,587052,Dry Fruit Chikki by GO DESI,1242296,₹42,₹45,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/076b9088-bf76-4a78-abe4-f914b12aa312.png,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,477177,Till Laddu Veerabhadra,1257568,₹73,₹75,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/eb387819-4382-47a0-9f68-1600386624b6.png,N/A,Veerabhadra
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,553989,Peanut Chocolate No Added Sugar Laddu by Eat Better Co,1057934,₹289,₹299,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/d82f10e0-2c42-4e5d-8d75-4e526c558da8.png,N/A,Eat Better Co
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,609014,Ghee Bombay Halwa - GRB,1390255,₹79,₹150,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/ad69f7e4-a312-46d5-91f6-dc5cd18103d0.png,N/A,GRB
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,67823,Gol-M-Gol Gulab Jamun by Bikaji,661430,₹273,₹275,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/4a956e26-8438-4892-bae1-086b7a37a534.jpg?ts=1752479931,N/A,Bikaji
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,534300,Desi Ghee Dryfruit Besan Laddu by Unibic Swaadesi,774246,₹101,₹230,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/49c25938-e67d-41b2-b857-a6dde6465067.jpg?ts=1724930601,N/A,Unibic Swaadesi
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,609639,Besan Laddu by Asha,1392656,₹137,₹152,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/a0a27937-4939-4d01-a4f4-ee076a020195.jpg,N/A,Asha
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,61373,Ras Malai by Haldiram's Nagpur,661429,₹225,₹225,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/6974c058-ea2d-429a-8014-0ef79c63c7a6.jpg?ts=1749113327,N/A,Haldiram's Nagpur
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,556155,Badam Katli Box by GO DESI,1881830,₹219,₹349,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/16cb08ec-b90c-432a-a616-fd47ba9a5188.jpg?ts=1750072831,N/A,GO DESI
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,30771,492187,Gulkand Chaitri Gulab by Two Brothers,2065133,₹603,₹669,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/95c70259-7578-4518-b20b-20fedb1e2702.jpg?ts=1736247406,N/A,Two Brothers
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,31130,580391,Assorted Laddu Box by Two Brothers,1219687,₹450,₹499,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/5437afdc-2cc1-49d9-ba98-15c90106a5e6.jpg?ts=1730440202,N/A,Two Brothers
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,567349,Milk Burfi by Sweet Karam Coffee Pack of 3,1055723,₹531,₹597,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/9eb93383-2384-4c44-995e-1103010f809e.jpg?ts=1725275276,N/A,Sweet Karam Coffee
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,558500,Peanut Chikki by VS Mani & Co. - Pack of 3,661663,₹146,₹195,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/1edd0b13-dcb2-441f-96b7-55503e45c21b.jpg?ts=1719834504,N/A,VS Mani & Co.
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,401204,Family Pack Chikki by paper boat,818176,₹39,₹42,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/401204a.jpg?ts=1697793143,N/A,paper boat
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,401199,Peanut Chikki by paper boat,1881676,₹326,₹350,True,0,False,https://cdn.grofers.com/app/images/products/sliding_image/401199a.jpg?ts=1704865239,N/A,paper boat
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,440067,Til Chikki by Charlie's,661537,₹40,₹40,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/765f18ed-ec60-4f21-9255-740141cb1471.jpg?ts=1750855038,N/A,Charlie's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,554124,Shakkar Para by Daadi's,911099,₹105,₹120,True,0,False,https://cdn.grofers.com/app/assets/products/sliding_images/jpeg/388ae2cd-5b05-49d9-8ee4-4640a6b35aa8.jpg?ts=1716812118,N/A,Daadi's
+
+21/07/2025,Sweet Tooth,9,Indian Sweets,943,36222,91117,Manbhawan Soan Papdi by Bikaji,661437,₹134,₹135,True,0,False,https://cdn.grofers.com/da/cms-assets/cms/product/ca13d9a1-3db8-42b6-ba32-c010bc57a2f5.jpg?ts=1752821117,N/A,Bikaji
+
